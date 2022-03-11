@@ -5,55 +5,151 @@ build my english word
 #### 动词和运算
 数学家喜欢避免卷入“xx是什么”这种哲学上的讨论。“直线是什么”,"0是什么"，“概率是什么” 这样的问题。讨论来讨论去也没个结果，不如先放一放，看看具有什么样的性质。比如0的阶乘 为1等  
 
+
 ### 英文中常用的1000个动词
 
 http://cn.talkenglish.com/vocabulary/top-1000-verbs.aspx
+https://wikidiff.com/
 
+Out of the 2265 most frequently used words, 1010 were identified as verbs. However, 457 words were primarily used as verbs, while the remaining 553 words were different types but could be used as a verb. For example, the word "address" is a noun, such as, "What is your mailing address?" However, it can also be a verb, "Please address the judge as your honor."
+
+Because of the multiple meaning of words, the ordering of words were conducted by 1) taking the frequency of only verb types, then 2) taking the frequency of (verb + other type), then finally 3) taking the frequency of (other type + verb).
+
+
+### 是
 is	2699		(verb)
 are	1843		(verb)
+
+### 有
 has	384		(verb)
+
+## 得
 get	233		(verb)
+
+## 看
 see	204		(verb)
+
+## 需
 need	193		(verb)
+
+## 知
 know	181		(verb)
+
+## 愿
 would	176		(verb)
+
+## 找
 find	166		(verb)
+
+## 取
 take	164		(verb)
+
+## 想
 want	163		(verb)
+
+## 做
 does	104		(verb)
+
+## 学
 learn	102		(verb)
+
+## 成
 become	97		(verb)
+
+## 来 
 come	88		(verb)
+
+## 包
 include	80		(verb)
+
+## 谢
 thank	78		(verb)
+
+## 
 provide	68		(verb)
+
+## 生
 create	63		(verb)
+
+## 加
 add	60		(verb)
+
+## 懂
 understand	59		(verb)
+
+## 思
 consider	57		(verb)
+
+## 选
 choose	49		(verb)
+
+## 研
 develop	49		(verb)
+
+## 记
 remember	46		(verb)
+
+## 决
 determine	40		(verb)
+
+## 长
 grow	37		(verb)
+
+## 允
 allow	35		(verb)
+
+
 supply	34		(verb)
+
+## 携
 bring	31		(verb)
+
+## 
 improve	31		(verb)
+
+## 维
 maintain	30		(verb)
+
+### 启
 begin	29		(verb)
+
+### 存
 exist	28		(verb)
+
+### 趋
 tend	28		(verb)
+
+### 享
 enjoy	27		(verb)
+
+### 操
 perform	27		(verb)
+
+### 
 decide	25		(verb)
+
+## 辨
 identify	25		(verb)
+
+## 续
 continue	24		(verb)
+
+## 护
 protect	24		(verb)
-require	24		(verb)
+
+## 需
+require	24		(verb）
+
+## 
 occur	23		(verb)
+
+## 写
 write	23		(verb)
+
+## 靠
 approach	22		(verb)
+
+## 
 avoid	22		(verb)
 prepare	22		(verb)
 build	21		(verb)
