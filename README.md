@@ -59,16 +59,16 @@ become	97		(verb)
 ## 来 
 come	88		(verb)
 
-## 包
+## 含
 include	80		(verb)
 
 ## 谢
 thank	78		(verb)
 
-## 
+## 供
 provide	68		(verb)
 
-## 生
+## 造
 create	63		(verb)
 
 ## 加
@@ -98,13 +98,13 @@ grow	37		(verb)
 ## 允
 allow	35		(verb)
 
-
+## 供
 supply	34		(verb)
 
 ## 携
 bring	31		(verb)
 
-## 
+## 升
 improve	31		(verb)
 
 ## 维
@@ -122,10 +122,10 @@ tend	28		(verb)
 ### 享
 enjoy	27		(verb)
 
-### 操
+### 演
 perform	27		(verb)
 
-### 
+### 决
 decide	25		(verb)
 
 ## 辨
@@ -140,7 +140,7 @@ protect	24		(verb)
 ## 需
 require	24		(verb）
 
-## 
+## 现
 occur	23		(verb)
 
 ## 写
@@ -149,50 +149,136 @@ write	23		(verb)
 ## 靠
 approach	22		(verb)
 
-## 
+## 避
 avoid	22		(verb)
+
+## 备
 prepare	22		(verb)
+
+## 建
 build	21		(verb)
+
+## 获 
 achieve	20		(verb)
+
+## 信
 believe	20		(verb)
+
+## 收
 receive	20		(verb)
+
+## 似
 seem	20		(verb)
+
+## 议
 discuss	19		(verb)
+
+## 觉
 realize	19		(verb)
+
+## 含
 contain	18		(verb)
+
+## 随
 follow	18		(verb)
+
+## 引
 refer	18		(verb)
+
+## 解
 solve	18		(verb)
+
+## 绘
 describe	17		(verb)
+
+## 偏
 prefer	17		(verb)
+
+## 防
 prevent	17		(verb)
+
+## 探
 discover	16		(verb)
+
+## 誓
 ensure	16		(verb)
+
+## 盼
 expect	16		(verb)
+
+## 育
 invest	16		(verb)
+
+## 减
 reduce	16		(verb)
+
+## 讲 
 speak	16		(verb)
+
+## 现 
 appear	15		(verb)
+
+## 释
 explain	15		(verb)
+
+## 探 
 explore	15		(verb)
+
+## 陷 
 involve	15		(verb)
+
+## 失
 lose	15		(verb)
+
+## 给
 afford	14		(verb)
+
+## 合
 agree	14		(verb)
+
+## 听
 hear	14		(verb)
+
+## 余
 remain	14		(verb)
+
+## 代
 represent	14		(verb)
+
+## 适
 apply	13		(verb)
+
+## 忘
 forget	13		(verb)
+
+## 荐
 recommend	13		(verb)
+
+## 依
 rely	13		(verb)
+
+## 变
 vary	13		(verb)
+
+## 生
 generate	12		(verb)
+
+## 获
 obtain	12		(verb)
+
+## 接
 accept	11		(verb)
+
+## 换
 communicate	11		(verb)
+
+## 怨
 complain	11		(verb)
+
+## 依
 depend	11		(verb)
+
+## 入 
 enter	11		(verb)
 happen	11		(verb)
 indicate	11		(verb)
