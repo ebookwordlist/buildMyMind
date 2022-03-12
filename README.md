@@ -389,20 +389,46 @@ assure	5		(verb)
 ## 吸
 attract	5		(verb)
 
-
+### 分
 distribute	5		(verb)
+
+### 克
 overcome	5		(verb)
+
+
 owe	5		(verb)
+
+### 成
 succeed	5		(verb)
+
+### 受
 suffer	5		(verb)
+
+### 抛 
 throw	5		(verb)
+
+### 获
 acquire	4		(verb)
+
+### 适
 adapt	4		(verb)
+
+### 改
 adjust	4		(verb)
+
+### 争
 argue	4		(verb)
+
+### 涌
 arise	4		(verb)
+
+### 巩
 confirm	4		(verb)
+
+### 助
 encouraging	4		(verb)
+
+
 incorporate	4		(verb)
 justify	4		(verb)
 organize	4		(verb)
@@ -424,42 +450,115 @@ rid	3		(verb)
 weigh	3		(verb)
 arrive	2		(verb)
 attach	2		(verb)
+
+### 表
 behave	2		(verb)
+
+### 庆 
 celebrate	2		(verb)
+
+### 说
 convince	2		(verb)
+
+### 争
 disagree	2		(verb)
+
+### 建
 establish	2		(verb)
+
+### 驳
 ignore	2		(verb)
+
+## 表 
 imply	2		(verb)
+
+###  持
 insist	2		(verb)
+
+### 追
 pursue	2		(verb)
+
+### 余
 remaining	2		(verb)
+
+### 特
 specify	2		(verb)
+
+###  警
 warn	2		(verb)
+
+### 谴
 accuse	1		(verb)
+
+### 钦
 admire	1		(verb)
+
+### 许
 admit	1		(verb)
+
+### 纳
 adopt	1		(verb)
+
+### 
 announce	1		(verb)
+
+### 歉
 apologize	1		(verb)
+
+### 准 
 approve	1		(verb)
+
+
+### 参
 attend	1		(verb)
+
+### 属
 belong	1		(verb)
+
+### 犯/诺/托
 commit	1		(verb)
+
+### 批
 criticize	1		(verb)
+
+### 受
 deserve	1		(verb)
+
+### 破 
 destroy	1		(verb)
+
+### 踌
 hesitate	1		(verb)
+
+### 阐
 illustrate	1		(verb)
+
+### 告
 inform	1		(verb)
-manufacturing	1		(verb)
+
+
+### 劝
 persuade	1		(verb)
+### 倾
 pour	1		(verb)
+
+
+## 求
 propose	1		(verb)
+
+## 诱
 remind	1		(verb)
+
+## 必
 shall	1		(verb)
+
+### 递
 submit	1		(verb)
+
+### 若
 suppose	1		(verb)
+
+### 转
 translate	1		(verb)
 
 
