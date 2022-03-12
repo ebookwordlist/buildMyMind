@@ -280,42 +280,116 @@ depend	11		(verb)
 
 ## 入 
 enter	11		(verb)
+
+## 遇
 happen	11		(verb)
+
+## 指
 indicate	11		(verb)
+
+## 启
 suggest	11		(verb)
+
+## 存
 survive	11		(verb)
+
+## 赏
 appreciate	10		(verb)
+
+## 比
 compare	10		(verb)
+
+## 猜
 imagine	10		(verb)
+
+## 管
 manage	10		(verb)
+
+## 别
 differ	9		(verb)
+
+## 促
 encourage	9		(verb)
+
+## 扩
 expand	9		(verb)
+
+## 验
 prove	9		(verb)
+
+## 反
 react	9		(verb)
+
+## 识
 recognize	9		(verb)
+
+## 松
 relax	9		(verb)
+
+### 替
 replace	9		(verb)
+
+### 借
 borrow	8		(verb)
+
+## 赚
 earn	8		(verb)
+
+## 加
 emphasize	8		(verb)
+
+## 能
 enable	8		(verb)
+
+## 操
 operate	8		(verb)
+
+## 映 
 reflect	8		(verb)
+
+## 送
 send	8		(verb)
+
+## 预
 anticipate	7		(verb)
+
+## 假
 assume	7		(verb)
+
+## 从
 engage	7		(verb)
+
+## 加
 enhance	7		(verb)
+
+## 考
 examine	7		(verb)
+
+## 置
 install	7		(verb)
+
+## 参
 participate	7		(verb)
+
+## 想
 intend	6		(verb)
+
+## 介
 introduce	6		(verb)
+
+## 联
 relate	6		(verb)
+
+## 定
 settle	6		(verb)
+
+## 信
 assure	5		(verb)
+
+## 吸
 attract	5		(verb)
+
+
 distribute	5		(verb)
 overcome	5		(verb)
 owe	5		(verb)
@@ -387,6 +461,11 @@ shall	1		(verb)
 submit	1		(verb)
 suppose	1		(verb)
 translate	1		(verb)
+
+
+
+### 有其他词词性的动词
+
 be	1145		(verb, auxiliary verb)
 have	891		(verb, auxiliary verb)
 use	319		(verb, noun)
