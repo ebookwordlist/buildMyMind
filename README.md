@@ -23,91 +23,91 @@ are	1843		(verb)
 ### 有
 has	384		(verb)
 
-###得
+###  得
 get	233		(verb)
 
-###看
+###  看
 see	204		(verb)
 
-###需
+###  需
 need	193		(verb)
 
-###知
+###  知
 know	181		(verb)
 
-###愿
+###  愿
 would	176		(verb)
 
-###找
+###  找
 find	166		(verb)
 
-###取
+###  取
 take	164		(verb)
 
-###想
+###  想
 want	163		(verb)
 
-###做
+###  做
 does	104		(verb)
 
-###学
+###  学
 learn	102		(verb)
 
-###成
+###  成
 become	97		(verb)
 
-###来 
+###  来 
 come	88		(verb)
 
-###含
+###  含
 include	80		(verb)
 
-###谢
+###  谢
 thank	78		(verb)
 
-###供
+###  供
 provide	68		(verb)
 
-###造
+###  造
 create	63		(verb)
 
-###加
+###  加
 add	60		(verb)
 
-###懂
+###  懂
 understand	59		(verb)
 
-###思
+###  思
 consider	57		(verb)
 
-###选
+###  选
 choose	49		(verb)
 
-###研
+###  研
 develop	49		(verb)
 
-###记
+###  记
 remember	46		(verb)
 
-###决
+###  决
 determine	40		(verb)
 
-###长
+###  长
 grow	37		(verb)
 
-###允
+###  允
 allow	35		(verb)
 
-###供
+###  供
 supply	34		(verb)
 
-###携
+###  携
 bring	31		(verb)
 
-###升
+###  升
 improve	31		(verb)
 
-###维
+###  维
 maintain	30		(verb)
 
 ### 启
@@ -128,202 +128,202 @@ perform	27		(verb)
 ### 决
 decide	25		(verb)
 
-###辨
+###  辨
 identify	25		(verb)
 
-###续
+###  续
 continue	24		(verb)
 
-###护
+###  护
 protect	24		(verb)
 
-###需
+###  需
 require	24		(verb）
 
-###现
+###  现
 occur	23		(verb)
 
-###写
+###  写
 write	23		(verb)
 
-###靠
+###  靠
 approach	22		(verb)
 
-###避
+###  避
 avoid	22		(verb)
 
-###备
+###  备
 prepare	22		(verb)
 
-###建
+###  建
 build	21		(verb)
 
-###获 
+###  获 
 achieve	20		(verb)
 
-###信
+###  信
 believe	20		(verb)
 
-###收
+###  收
 receive	20		(verb)
 
-###似
+###  似
 seem	20		(verb)
 
-###议
+###  议
 discuss	19		(verb)
 
-###觉
+###  觉
 realize	19		(verb)
 
-###含
+###  含
 contain	18		(verb)
 
-###随
+###  随
 follow	18		(verb)
 
-###引
+###  引
 refer	18		(verb)
 
-###解
+###  解
 solve	18		(verb)
 
-###绘
+###  绘
 describe	17		(verb)
 
-###偏
+###  偏
 prefer	17		(verb)
 
-###防
+###  防
 prevent	17		(verb)
 
-###探
+###  探
 discover	16		(verb)
 
-###誓
+###  誓
 ensure	16		(verb)
 
-###盼
+###  盼
 expect	16		(verb)
 
-###育
+###  育
 invest	16		(verb)
 
-###减
+###  减
 reduce	16		(verb)
 
-###讲 
+###  讲 
 speak	16		(verb)
 
-###现 
+###  现 
 appear	15		(verb)
 
-###释
+###  释
 explain	15		(verb)
 
-###探 
+###  探 
 explore	15		(verb)
 
-###陷 
+###  陷 
 involve	15		(verb)
 
-###失
+###  失
 lose	15		(verb)
 
-###给
+###  给
 afford	14		(verb)
 
-###合
+###  合
 agree	14		(verb)
 
-###听
+###  听
 hear	14		(verb)
 
-###余
+###  余
 remain	14		(verb)
 
-###代
+###  代
 represent	14		(verb)
 
-###适
+###  适
 apply	13		(verb)
 
-###忘
+###  忘
 forget	13		(verb)
 
-###荐
+###  荐
 recommend	13		(verb)
 
-###依
+###  依
 rely	13		(verb)
 
-###变
+###  变
 vary	13		(verb)
 
-###生
+###  生
 generate	12		(verb)
 
-###获
+###  获
 obtain	12		(verb)
 
-###接
+###  接
 accept	11		(verb)
 
-###换
+###  换
 communicate	11		(verb)
 
-###怨
+###  怨
 complain	11		(verb)
 
-###依
+###  依
 depend	11		(verb)
 
-###入 
+###  入 
 enter	11		(verb)
 
-###遇
+###  遇
 happen	11		(verb)
 
-###指
+###  指
 indicate	11		(verb)
 
-###启
+###  启
 suggest	11		(verb)
 
-###存
+###  存
 survive	11		(verb)
 
-###赏
+###  赏
 appreciate	10		(verb)
 
-###比
+###  比
 compare	10		(verb)
 
-###猜
+###  猜
 imagine	10		(verb)
 
-###管
+###  管
 manage	10		(verb)
 
-###别
+###  别
 differ	9		(verb)
 
-###促
+###  促
 encourage	9		(verb)
 
-###扩
+###  扩
 expand	9		(verb)
 
-###验
+###  验
 prove	9		(verb)
 
-###反
+###  反
 react	9		(verb)
 
-###识
+###  识
 recognize	9		(verb)
 
-###松
+###  松
 relax	9		(verb)
 
 ### 替
@@ -332,61 +332,61 @@ replace	9		(verb)
 ### 借
 borrow	8		(verb)
 
-###赚
+###  赚
 earn	8		(verb)
 
-###加
+###  加
 emphasize	8		(verb)
 
-###能
+###  能
 enable	8		(verb)
 
-###操
+###  操
 operate	8		(verb)
 
-###映 
+###  映 
 reflect	8		(verb)
 
-###送
+###  送
 send	8		(verb)
 
-###预
+###  预
 anticipate	7		(verb)
 
-###假
+###  假
 assume	7		(verb)
 
-###从
+###  从
 engage	7		(verb)
 
-###加
+###  加
 enhance	7		(verb)
 
-###考
+###  考
 examine	7		(verb)
 
-###置
+###  置
 install	7		(verb)
 
-###参
+###  参
 participate	7		(verb)
 
-###想
+###  想
 intend	6		(verb)
 
-###介
+###  介
 introduce	6		(verb)
 
-###联
+###  联
 relate	6		(verb)
 
-###定
+###  定
 settle	6		(verb)
 
-###信
+###  信
 assure	5		(verb)
 
-###吸
+###  吸
 attract	5		(verb)
 
 ### 分
@@ -469,7 +469,7 @@ establish	2		(verb)
 ### 驳
 ignore	2		(verb)
 
-###表 
+###  表 
 imply	2		(verb)
 
 ###  持
@@ -543,13 +543,13 @@ persuade	1		(verb)
 pour	1		(verb)
 
 
-###求
+###  求
 propose	1		(verb)
 
-###诱
+###  诱
 remind	1		(verb)
 
-###必
+###  必
 shall	1		(verb)
 
 ### 递
