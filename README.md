@@ -688,6 +688,8 @@ leave	25		(verb, noun)
 
 ### 到
 reach	25		(verb, noun)
+
+### 
 rest	25		(verb, noun)
 serve	25		(verb, noun)
 watch	25		(verb, noun)
@@ -702,13 +704,27 @@ rise	22		(verb, noun)
 walk	21		(verb, noun)
 pick	20		(verb, noun)
 lift	19		(verb, noun)
+
+#### 混
 mix	19		(verb, noun)
+
+### 停
 stop	19		(verb, noun)
+### 教
 teach	19		(verb, noun)
+### 
 concern	18		(verb, noun)
+
+### 飞
 fly	18		(verb, noun)
+
+### 生
 born	17		(verb, adjective, past particple)
+
+### 
 gain	17		(verb, noun)
+
+### 
 save	17		(verb, noun, preposition)
 stand	17		(verb, noun)
 fail	16		(verb, noun)
@@ -717,6 +733,8 @@ listen	16		(verb, noun)
 worry	16		(verb, noun)
 express	15		(verb, adjective, adverb)
 handle	15		(verb, noun)
+
+### 遇
 meet	15		(verb, noun)
 release	15		(verb, noun)
 sell	15		(verb, noun)
@@ -737,11 +755,18 @@ dump	12		(verb, noun, idiom)
 push	12		(verb, noun, idiom)
 select	12		(verb, adjective)
 conflict	11		(verb, noun)
+
+### 死
 die	11		(verb, idiom)
+### 吃
 eat	11		(verb, noun, idiom)
+#### 充
 fill	11		(verb, noun, idiom)
+### 跳
 jump	11		(verb, noun, adjective)
+### 踢
 kick	11		(verb, noun, idiom)
+### 过
 pass	11		(verb, noun, idiom)
 pitch	11		(verb, noun)
 treat	11		(verb, noun)
