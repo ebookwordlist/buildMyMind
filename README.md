@@ -781,9 +781,17 @@ flow	13		(verb, noun)
 hit	13		(verb, noun)
 shoot	13		(verb, noun, interjection)
 touch	13		(verb, noun)
+
+### 废除
 cancel	12		(verb, noun)
+
+### 哭
 cry	12		(verb, noun, idiom)
+
+### 推
 dump	12		(verb, noun, idiom)
+
+### 
 push	12		(verb, noun, idiom)
 select	12		(verb, adjective)
 conflict	11		(verb, noun)
@@ -819,10 +827,20 @@ draw	9		(verb, noun, idiom)
 fix	9		(verb, noun, idiom)
 hire	9		(verb, noun, adjective)
 join	9		(verb, noun)
+
+### 
 kill	9		(verb, noun, idiom)
+
+### 坐
 sit	9		(verb, idiom)
+
+### 拍
 tap	9		(verb, noun)
+
+### 博
 win	9		(verb, noun)
+
+### 攻
 attack	8		(verb, noun)
 claim	8		(verb, noun)
 
@@ -981,7 +999,7 @@ shake	2		(verb, noun)
 shift	2		(verb, noun)
 ###
 shine	2		(verb, noun)
-###
+### 偷 
 steal	2		(verb, noun)
 ###
 suck	2		(verb, noun)
@@ -1041,7 +1059,7 @@ even	223		(adjective, verb, adverb)
 film	209		(noun, verb)
 ###
 water	201		(noun, verb, adjective)
-###
+### 
 been	200		(past, verb)
 ###
 well	184		(adverb, verb, noun)
@@ -1051,9 +1069,9 @@ were	180		(past, verb)
 example	147		(noun, verb)
 ###
 own	130		(adjective, verb)
-###
+### 学
 study	118		(noun, verb)
-###
+### 
 must	108		(auxiliary verb, verb, adjective)
 ###
 form	99		(noun, verb)
@@ -1109,15 +1127,15 @@ company	60		(noun, verb)
 price	60		(noun, verb)
 ###
 size	60		(noun, verb, adjective)
-###
+### 
 card	58		(noun, verb)
-###
+### 罗列
 list	58		(noun, verb)
 ###
 mind	58		(noun, verb)
 ###
 trade	58		(noun, verb)
-###
+### 
 line	56		(noun, verb)
 ###
 care	55		(noun, verb)
