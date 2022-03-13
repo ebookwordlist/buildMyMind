@@ -17,6 +17,7 @@ def main():
         errmsg = "'%s' not found in Dictionary." % (searchword)
         print(errmsg)
     else:
+        print(type(dictresult))
         print(dictresult)
 
 
