@@ -18,6 +18,10 @@ build my english word
 ### 诗歌中的动词
 诗歌中动词的用法可以我们很大的启发。
 
+### 有用的资源
+https://dictionary.cambridge.org/us/
+
+https://www.etymonline.com/
 
 ### 英文中常用的1000个动词
 
@@ -1745,6 +1749,7 @@ coat	6		(noun, verb)
 contest	6		(noun, verb)
 ###
 court	6		(noun, verb, idiom)
+
 ###
 cup	6		(noun, verb)
 ###
@@ -1757,7 +1762,7 @@ garage	6		(noun, verb)
 guarantee	6		(noun, verb)
 ###
 hole	6		(noun, verb, idiom)
-###
+### 挂住
 hook	6		(noun, verb, idiom)
 ###
 implement	6		(noun, verb)
@@ -1819,9 +1824,10 @@ grade	5		(noun, verb)
 horse	5		(noun, verb, adjective)
 ###
 host	5		(noun, verb)
-###
+### 
 husband	5		(noun, verb)
-###
+
+###  借出
 loan	5		(noun, verb, idiom)
 ###
 mistake	5		(noun, verb, idiom)
@@ -1859,11 +1865,14 @@ towel	5		(noun, verb)
 vacation	5		(noun, verb)
 ###
 wheel	5		(noun, verb, idiom)
-###
+
+### 武装
 arm	4		(noun, verb)
-###
+
+### 联系
 associate	4		(noun, verb, adjective)
-###
+
+### 赌
 bet	4		(noun, verb)
 ###
 blow	4		(noun, verb)
