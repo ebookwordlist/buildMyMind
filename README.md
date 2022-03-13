@@ -15,7 +15,7 @@ build my english word
 - 表示趋向（趋向动词）：上、下、进、出、回、开、过、起、来、上来、下来、进来、出来、回来
 - 表示发展动词：如生长、枯萎、发芽、结果、产卵；
 
-### 诗歌中的动词
+### 诗歌和格言中的动词
 诗歌中动词的用法可以我们很大的启发。
 
 ### 有用的资源
@@ -664,12 +664,20 @@ check	49		(verb, noun, interjection)
 call	47		(verb, noun)
 move	47		(verb, noun)
 pay	47		(verb, noun)
+
+### 让 
 let	46		(verb, noun)
 increase	45		(verb, noun)
+
+### 
 turn	44		(verb, noun)
+
+
 ask	42		(verb, noun)
 buy	42		(verb, noun)
 guard	42		(verb, noun)
+
+### 保存 
 hold	42		(verb, noun)
 offer	42		(verb, noun)
 travel	41		(verb, noun)
@@ -1239,9 +1247,9 @@ building	36		(noun, verb)
 mouse	36		(noun, verb)
 ###
 cash	35		(noun, verb)
-###
+### 
 class	35		(noun, verb, adjective)
-###
+### 
 dry	35		(adjective, verb, noun)
 ###
 plan	35		(noun, verb)
@@ -1379,7 +1387,7 @@ ready	22		(adjective, verb)
 share	22		(noun, verb)
 ###
 balance	21		(noun, verb)
-###
+### 
 bit	21		(noun, verb)
 ###
 black	21		(noun, verb, adjective)
