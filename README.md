@@ -568,24 +568,62 @@ translate	1		(verb)
 
 ### 有其他词词性的动词
 
+### 是
 be	1145		(verb, auxiliary verb)
+
+## 有
 have	891		(verb, auxiliary verb)
+
+### 用
 use	319		(verb, noun)
+
+### 让我
 make	262		(verb, noun)
+
+### 看 
 look	144		(verb, noun, interjection)
+
+### 助
 help	141		(verb, noun, interjection)
+
+### 去
 go	131		(verb, noun, adjective)
+
+
 being	124		(verb, noun)
+
+### 想
 think	116		(verb, adjective, noun)
+
+
+### 读
 read	97		(verb, noun)
+
+### 持
 keep	96		(verb, noun)
+
+### 启动 
 start	96		(verb, noun)
+
+### 给
 give	93		(verb, noun)
+
+### 玩 
 play	75		(verb, noun)
+
+### 用我们
 feel	74		(verb, noun)
+
+### 放
 put	70		(verb, noun)
+
+### 设置
 set	69		(verb, noun, adjective)
+
+### 改变
 change	67		(verb, noun)
+
+
 say	66		(verb, interjection, noun)
 cut	50		(verb, noun)
 show	50		(verb, noun)
@@ -614,18 +652,41 @@ fall	32		(verb, noun)
 produce	31		(verb, noun)
 search	31		(verb, noun)
 spend	30		(verb, noun)
+
+## 谈
 talk	30		(verb, noun)
+
+## 
 upset	30		(verb, adjective)
+
+### 告
 tell	29		(verb, noun)
+
+### 费
 cost	28		(verb, noun)
+
+### 驱
 drive	28		(verb, noun)
+
+### 
 support	28		(verb, noun)
+
+### 除
 remove	27		(verb, noun)
+
+### 返
 return	27		(verb, noun)
+
+
+### 跑
 run	27		(verb, noun)
 appropriate	26		(verb, adjective)
 reserve	26		(verb, noun)
+
+### 离
 leave	25		(verb, noun)
+
+### 到
 reach	25		(verb, noun)
 rest	25		(verb, noun)
 serve	25		(verb, noun)
