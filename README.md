@@ -657,12 +657,19 @@ change	67		(verb, noun)
 
 
 say	66		(verb, interjection, noun)
+###
 cut	50		(verb, noun)
+###
 show	50		(verb, noun)
+###
 try	50		(verb, noun)
+###
 check	49		(verb, noun, interjection)
+###
 call	47		(verb, noun)
+###
 move	47		(verb, noun)
+###
 pay	47		(verb, noun)
 
 ### 让 
@@ -679,18 +686,32 @@ guard	42		(verb, noun)
 
 ### 保存 
 hold	42		(verb, noun)
+###
 offer	42		(verb, noun)
+###
 travel	41		(verb, noun)
+###
 cook	40		(verb, noun)
+###
 dance	37		(verb, noun)
+###
 excuse	37		(verb, noun)
+###
 live	35		(verb, adjective, adverb)
+###
 purchase	34		(verb, noun)
+###
 deal	33		(verb, noun)
+###
 mean	33		(verb, adjective, noun)
+
+### 
 fall	32		(verb, noun)
+### 
 produce	31		(verb, noun)
+###
 search	31		(verb, noun)
+###
 spend	30		(verb, noun)
 
 ## 谈
@@ -737,7 +758,11 @@ charge	24		(verb, noun)
 break	23		(verb, noun)
 stay	23		(verb, noun)
 visit	23		(verb, noun)
+
+### 影响
 affect	22		(verb, noun)
+
+### 
 cover	22		(verb, noun)
 report	22		(verb, noun)
 rise	22		(verb, noun)
@@ -780,7 +805,11 @@ release	15		(verb, noun)
 sell	15		(verb, noun)
 finish	14		(verb, noun)
 press	14		(verb, noun)
+
+### 
 ride	14		(verb, noun)
+
+### 
 spread	14		(verb, noun)
 spring	14		(verb, noun)
 wait	14		(verb, noun)
@@ -818,6 +847,8 @@ kick	11		(verb, noun, idiom)
 pass	11		(verb, noun, idiom)
 pitch	11		(verb, noun)
 treat	11		(verb, noun)
+
+### 
 abuse	10		(verb, noun)
 beat	10		(verb, noun, adjective)
 burn	10		(verb, noun)
