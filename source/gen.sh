@@ -1,0 +1,1 @@
+cat 1000verb.txt | xargs -I{} wkdict {} > wkdict_generate.md
