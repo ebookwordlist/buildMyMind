@@ -1088,3 +1088,238 @@
 
 🔅 This application is powered by Wiktionary's API 🔅
 
+1) assort	(Received Pronunciation) IPA: /əˈsɔːt/
+   🏷  verb
+
+	📗 Definitions
+	☞ assort (third-person singular simple present assorts, present
+	  participle assorting, simple past and past participle
+	  assorted)
+	☞ (transitive) To sort or arrange according to characteristic or
+	  class.
+	☞ (intransitive) To be of a kind with, to harmonise or match.
+
+	📘 Examples
+	➡ They appear  […]  no way assorted to those with whom they
+	  must associate.
+	➡ She wore a peruke of very fair golden hair; and herein
+	  was shown the lurking spirit of female vanity: her own tresses
+	  had been very beautiful; in some whim she had had them shaven
+	  off, but the colour of the peruke had been most assiduously
+	  assorted to them.
+	➡ to assort a cargo
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) astonish	(Received Pronunciation) IPA: /əˈstɒnɪʃ/
+   🏷  verb
+
+	📗 Definitions
+	☞ astonish (third-person singular simple present astonishes,
+	  present participle astonishing, simple past and past
+	  participle astonished)
+	☞ To surprise greatly.
+
+	📘 Examples
+	➡ "I have no right to give my opinion," said Wickham, "as
+	  to his being agreeable or otherwise. I am not qualified to
+	  form one. I have known him too long and too well to be a fair
+	  judge. It is impossible for me to be impartial. But I believe
+	  your opinion of him would in general astonish — and perhaps
+	  you would not express it quite so strongly anywhere else. Here
+	  you are in your own family."
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) attack	(UK, US, General Australian) IPA: /əˈtæk/, [əˈtʰæk]
+   🏷  noun
+
+	📗 Definitions
+	☞ attack (plural attacks)
+	☞ An attempt to cause damage, injury to, or death of opponent or
+	  enemy.
+	☞ An attempt to detract from the worth or credibility of, a
+	  person, position, idea, object, or thing, by physical, verbal,
+	  emotional, or other assault.
+
+	📘 Examples
+	➡ From 1906 to 1960, there were forty-six recorded shark
+	  attacks, half of which were fatal.
+	➡ One particularly damaging, but often ignored, effect of
+	  conflict on education is the proliferation of attacks on
+	  schools […] as children, teachers or school buildings become
+	  the targets of attacks. Parents fear sending their children to
+	  school. Girls are particularly vulnerable to sexual
+	  violence.
+	➡ “I came down like a wolf on the fold, didn’t I ?  Why
+	  didn’t I telephone ?  Strategy, my dear boy, strategy. This is
+	  a surprise attack, and I’d no wish that the garrison,
+	  forewarned, should escape. …”
+   🏷  verb
+
+	📗 Definitions
+	☞ attack (third-person singular simple present attacks, present
+	  participle attacking, simple past and past participle
+	  attacked)
+	☞ (transitive) To apply violent force to someone or something.
+	☞ (transitive) To aggressively challenge a person, idea, etc.,
+	  with words (particularly in newspaper headlines, because it
+	  typesets into less space than "criticize" or similar).
+
+	📘 Examples
+	➡ This species of snake will only attack humans if it feels
+	  threatened.
+	➡ She published an article attacking the recent pay
+	  cuts.
+	➡ In its God-like prime, The Simpsons attacked well-worn
+	  satirical fodder from unexpected angles, finding fresh laughs
+	  in the hoariest of subjects.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) attend	(Received Pronunciation, General American) IPA: /əˈtɛnd/, [əˈtʰɛnd]
+   🏷  verb
+
+	📗 Definitions
+	☞ attend (third-person singular simple present attends, present
+	  participle attending, simple past and past participle
+	  attended)
+	☞ (archaic, transitive) To listen to (something or someone); to
+	  pay attention to; regard; heed. [from 15th c.]
+	☞ (archaic, intransitive) To listen (to, unto). [from 15th c.]
+
+	📘 Examples
+	➡ The diligent pilot in a dangerous tempest doth not attend
+	  the unskilful words of the passenger.
+	➡ The preſent Argument is the moſt abſtracted that ever I
+	  engaged in, it ſtrains my Faculties to their higheſt Stretch;
+	  and I deſire the Reader to attend with utmoſt perpenſity; For,
+	  I now proceed to unravel this knotty Point.
+	➡ 'Now attend to me,' said Painted Jaguar, 'because this is
+	  very important.  […]
+2) attend	(Received Pronunciation, General American) IPA: /əˈtɛnd/, [əˈtʰɛnd]
+   🏷  verb
+
+	📗 Definitions
+	☞ attend (third-person singular simple present attends, present
+	  participle attending, simple past and past participle
+	  attended)
+	☞ Alternative form of atend ("to kindle").
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) attract	IPA: /əˈtɹækt/
+   🏷  verb
+
+	📗 Definitions
+	☞ attract (third-person singular simple present attracts,
+	  present participle attracting, simple past and past participle
+	  attracted)
+	☞ To pull toward without touching.
+	☞ To arouse interest.
+
+	📘 Examples
+	➡ All bodies, and all the parts of bodies, mutually attract
+	  themselves, and one another.
+	➡ The reason plaque forms isn’t entirely known, but it
+	  seems to be related to high levels of cholesterol inducing an
+	  inflammatory response, which can also attract and trap more
+	  cellular debris over time.
+	➡ A magnet attracts iron filings.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) audit	(Received Pronunciation) IPA: /ˈɔː.dɪt/
+   🏷  noun
+
+	📗 Definitions
+	☞ audit (plural audits)
+	☞ A judicial examination.
+	☞ An examination in general.
+
+	📘 Examples
+	➡ National Assembly audit
+	➡ Yet I can make my audit up.
+	➡ [ Werner Erhard said:] I got a lot of benefit from
+	  auditing. It was the fastest and deepest way to handle
+	  situations that I had yet encountered.
+   🏷  verb
+
+	📗 Definitions
+	☞ audit (third-person singular simple present audits, present
+	  participle auditing, simple past and past participle audited)
+	☞ To examine and adjust (e.g. an account).
+	☞ (finance, business) To conduct an independent review and
+	  examination of system records and activities in order to test
+	  the adequacy and effectiveness of data security and data
+	  integrity procedures, to ensure compliance with established
+	  policy and operational procedures, and to recommend any
+	  necessary changes
+
+	📘 Examples
+	➡ to audit the accounts of a treasure, or of parties who
+	  have a suit depending in court
+	➡ In John's case, I suspect, when he lost Diana he went
+	  back to his Scientology church to be audited.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) avoid	IPA: /əˈvɔɪd/
+   🏷  verb
+
+	📗 Definitions
+	☞ avoid (third-person singular simple present avoids, present
+	  participle avoiding, simple past and past participle avoided)
+	☞ (transitive) To try not to meet or communicate with (a
+	  person); to shun
+	☞ (transitive) To try not to be hit; to give way
+
+	📘 Examples
+	➡ I avoided the slap easily.
+	➡ I try to avoid the company of gamblers.
+	➡ What need a man forestall his date of griefe
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) awake	IPA: /əˈweɪk/
+   🏷  adjective
+
+	📗 Definitions
+	☞ awake (comparative more awake, superlative most awake)
+	  (predicative only)
+	☞ Not asleep; conscious.
+	☞ (figuratively, by extension) Alert, aware.
+
+	📘 Examples
+	➡ By quarter to six all this had me so awake and agitated
+	  that even the Balinese wind chimes that I hung up in the
+	  garden to relax me began to sound like Big Ben.
+	➡ Synonyms: conscious, lucid, wide awake; see also
+	  Thesaurus:awake
+	➡ Antonyms: asleep, unconscious; see also
+	  Thesaurus:asleep
+2) awake	IPA: /əˈweɪk/
+   🏷  verb
+
+	📗 Definitions
+	☞ awake (third-person singular simple present awakes, present
+	  participle awaking, simple past awoke or (rare) awaked, past
+	  participle awoken or (rare) awaked or (rare) awoke or (rare)
+	  awaken)
+	☞ (intransitive) To become conscious after having slept.
+	☞ (transitive) To cause (somebody) to stop sleeping.
+
+	📘 Examples
+	➡ Synonyms: awaken, wake up; see also Thesaurus:wake
+	➡ Antonyms: fall asleep; see also Thesaurus:fall asleep
+	➡ Synonyms: bring round, cry, wake up; see also
+	  Thesaurus:awaken
+
