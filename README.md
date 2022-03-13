@@ -778,7 +778,9 @@ print	10		(verb, noun, adjective)
 raise	10		(verb, noun, idiom)
 sleep	10		(verb, noun, idiom)
 advance	9		(verb, noun, adjective)
+### 
 connect	9		(verb, adjective)
+### 
 consist	9		(verb, noun)
 contribute	9		(verb, idiom)
 draw	9		(verb, noun, idiom)
@@ -791,12 +793,22 @@ tap	9		(verb, noun)
 win	9		(verb, noun)
 attack	8		(verb, noun)
 claim	8		(verb, noun)
+
+### 拉
 drag	8		(verb, noun, adjective)
+
+### 喝
 drink	8		(verb, noun)
+### 猜
 guess	8		(verb, noun, idiom)
+### 拉
 pull	8		(verb, noun)
+### 穿
 wear	8		(verb, noun, idiom)
+### 疑
 wonder	8		(verb, noun, idiom)
+
+### 
 count	7		(verb, noun, adjective)
 doubt	7		(verb, noun, idiom)
 feed	7		(verb, noun, idiom)
@@ -843,6 +855,8 @@ crash	3		(verb, noun, adjective)
 fold	3		(verb, noun)
 grab	3		(verb, noun)
 hide	3		(verb, noun)
+
+### 丢
 miss	3		(verb, noun)
 permit	3		(verb, noun)
 quote	3		(verb, noun)
@@ -1460,12 +1474,29 @@ roof	1		(noun, verb)
 rope	1		(noun, verb)
 sail	1		(noun, verb)
 scheme	1		(noun, verb)
+
+#### 
 script	1		(noun, verb)
+
+### 怠慢
 slight	1		(adjective, verb, noun)
+
+### 感到刺痛
 smart	1		(adjective, verb, noun)
+
+### 打
 sock	1		(noun, verb)
+
+### 驻
 station	1		(noun, verb)
+
+### 服从 
 toe	1		(noun, verb)
-tower	1		(noun, verb)
+
+### 高耸
+tower	1		(noun, verb
+
+### 交/运
 truck	1		(noun, verb)
+### 目击
 witness	1		(noun, verb)
