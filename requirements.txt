@@ -3,3 +3,4 @@ openpyxl
 lxml
 html5lib
 bs4
+pyobjc-framework-coreservices
