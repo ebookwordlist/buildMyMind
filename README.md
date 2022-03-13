@@ -1,6 +1,12 @@
 # buildMyMind
 build my english word
 
+### 
+python3 -m venv venv/
+
+source venv/bin/activate
+
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com
 
 #### 动词和运算
 数学家往往避免卷入“xx是什么”这种哲学上的讨论。“直线是什么”,"0是什么"，“虚数的本质是什么” 这样的问题。讨论来讨论去也没个结果，不如先放一放，看看具有什么样的性质。比如 i平方 = -1。 先关注运算而不是本质，有可能让我们走的更远。而动词就是语言中的运算。
