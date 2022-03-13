@@ -7,5 +7,6 @@ a = list(t)
 
 for k in a:
     print(k)
-    os.system(
-        "cat 1000verb.txt | grep ^{} | xargs -I{} swift ../test.swift {} > ./{}/mac_{}.md".format(k, k, k))
+    commnd = "cat {}/{}.txt | xargs -I{{}} swift ./test.swift {{}} > ./{}/mac_{}.md".format(
+        k, k, k, k, k)
+    os.system(commnd)
