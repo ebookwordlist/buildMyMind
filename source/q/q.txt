@@ -1,0 +1,4 @@
+qualify
+quarrel
+question
+quit

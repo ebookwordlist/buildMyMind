@@ -4,8 +4,7 @@ import string
 
 t = string.ascii_lowercase[:26]
 a = list(t)
-print(a)
 
 for k in a:
     print(k)
-    # os.makedirs(k)
+    os.system("cat 1000verb.txt | grep ^{} > ./{}/{}.txt".format(k,k,k))
