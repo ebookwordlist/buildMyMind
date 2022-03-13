@@ -32506,3 +32506,3095 @@ The word you typed is be (am,are)
 
 🔅 This application is powered by Wiktionary's API 🔅
 
+1) snap	IPA: /snæp/
+   🏷  noun
+
+	📗 Definitions
+	☞ snap (countable and uncountable, plural snaps)
+	☞ A quick breaking or cracking sound or the action of producing
+	  such a sound.
+	☞ A sudden break.
+
+	📘 Examples
+	➡ We took a few snaps of the old church before moving
+	  on.
+	➡ a ginger snap
+	➡ It'll be a snap to get that finished.
+   🏷  verb
+
+	📗 Definitions
+	☞ snap (third-person singular simple present snaps, present
+	  participle snapping, simple past and past participle snapped
+	  or (obsolete) snapt)
+	☞ (intransitive, transitive) To fracture or break apart
+	  suddenly.
+	☞ (intransitive) To give forth or produce a sharp cracking
+	  noise; to crack.
+
+	📘 Examples
+	➡ He snapped his stick in anger.
+	➡ If you bend it too much, it will snap.
+	➡ But this weapon will snap short, unfaithful to the hand
+	  that employs it.
+   🏷  interjection
+
+	📗 Definitions
+	☞ snap!
+	☞ The cry used in a game of snap when winning a hand.
+	☞ (Britain, Australia) By extension from the card game, "I've
+	  got one the same!", "Me too!"
+
+	📘 Examples
+	➡ Snap! We've both got pink buckets and spades.
+	➡ I just ran over your phone with my car. —Oh, snap!
+	➡ Synonym: jinx
+   🏷  adjective
+
+	📗 Definitions
+	☞ snap (not comparable)
+	☞ (informal, attributive) Done, made, performed, etc., quickly
+	  and unexpectedly, or without deliberation.
+
+	📘 Examples
+	➡ a snap judgment or decision
+	➡ a snap political convention
+	➡ Now I should consider it a very snap judgment or a snap
+	  diagnosis for anybody to come into a medical society
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) snatch	IPA: /snætʃ/
+   🏷  verb
+
+	📗 Definitions
+	☞ snatch (third-person singular simple present snatches, present
+	  participle snatching, simple past and past participle
+	  snatched)
+	☞ (transitive) To grasp and remove quickly.
+	☞ (intransitive) To attempt to seize something suddenly.
+
+	📘 Examples
+	➡ He snatched up the phone.
+	➡ She snatched the letter out of the secretary's hand.
+	➡ "How many times have I told you?" she cried, and seized
+	  him and snatched his stick away from him.
+   🏷  noun
+
+	📗 Definitions
+	☞ snatch (plural snatches)
+	☞ A quick grab or catch.
+	☞ (weightlifting) A competitive weightlifting event in which a
+	  barbell is lifted from the platform to locked arms overhead in
+	  a smooth continuous movement.
+
+	📘 Examples
+	➡ The leftfielder makes a nice snatch to end the
+	  inning.
+	➡ And he  […]  glared on the cold pistols that hung before
+	  him—ready for anything. And he took down one with a snatch and
+	  weighed it in his hand, and fell to thinking again;  […]
+	➡ I heard a snatch of Mozart as I passed the open
+	  window.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sneak	IPA: /sniːk/
+   🏷  noun
+
+	📗 Definitions
+	☞ sneak (plural sneaks)
+	☞ One who sneaks; one who moves stealthily to acquire an item or
+	  information.
+	☞ The act of sneaking
+
+	📘 Examples
+	➡ My little brother is such a sneak; yesterday I caught him
+	  trying to look through my diary.
+	➡ Synonyms: con artist, trickster; see also
+	  Thesaurus:confidence trickster, Thesaurus:deceiver
+	➡ I can't believe I gave that sneak $50 for a ticket when
+	  they were selling for $20 at the front gate.
+   🏷  verb
+
+	📗 Definitions
+	☞ sneak (third-person singular simple present sneaks, present
+	  participle sneaking, simple past and past participle sneaked
+	  or snuck)
+	☞ (intransitive) To creep or go stealthily; to come or go while
+	  trying to avoid detection, as a person who does not wish to be
+	  seen.
+	☞ (transitive) To take something stealthily without permission.
+
+	📘 Examples
+	➡ Synonym: skulk
+	➡ He decided to sneak into the kitchen for a second cookie
+	  while his mom was on the phone.
+	➡ Some of these were dressed most gorgeously, others
+	  becomingly, and several sneaked in with fantail bangers,
+	  calling themselves "Gentlemen of the Nineteenth Century."
+   🏷  adjective
+
+	📗 Definitions
+	☞ sneak (not comparable)
+	☞ In advance; before release to the general public.
+	☞ In a stealthy or surreptitious manner.
+
+	📘 Examples
+	➡ The company gave us a sneak look at their new electronic
+	  devices.
+	➡ I was able to get a sneak peek at the guest list.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sneeze	IPA: /sniːz/
+   🏷  verb
+
+	📗 Definitions
+	☞ sneeze (third-person singular simple present sneezes, present
+	  participle sneezing, simple past sneezed or (nonstandard)
+	  snoze, past participle sneezed or (nonstandard) snozen)
+	☞ (intransitive) To expel air as a reflex induced by an
+	  irritation in the nose.
+	☞ (intransitive) To expel air as if the nose were irritated.
+
+	📘 Examples
+	➡ To avoid passing on your illness, you should sneeze into
+	  your sleeve.
+	➡ Lily shook her head violently and sneezed a large blue-
+	  bottle fly from where that insect had perched itself on the
+	  tip of her nose.
+	➡ When I crossed the road, I sneezed a big achoo! My nose
+	  started to feel itchy.
+   🏷  noun
+
+	📗 Definitions
+	☞ sneeze (plural sneezes)
+	☞ An act of sneezing.
+
+	📘 Examples
+	➡ Synonyms:  sternutation,  ptarmus
+	➡ Jared's hay fever gives him terrible sneezes.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sniff	(Received Pronunciation, General American, Canada, General Australian) enPR: snĭf, IPA: /snɪf/
+   🏷  verb
+
+	📗 Definitions
+	☞ sniff (third-person singular simple present sniffs, present
+	  participle sniffing, simple past and past participle sniffed)
+	☞ (transitive, intransitive) To make a short, audible
+	  inhalation, through the nose, as when smelling something.
+	☞ To say something while sniffing, for example in case of
+	  illness or unhappiness, or in contempt.
+
+	📘 Examples
+	➡ The dog sniffed around the park, searching for a nice
+	  scent.
+	➡ I sniffed the meat to see whether it had gone off.
+	➡ "He's never coming back, is he?" she sniffed while
+	  looking at a picture of him.
+   🏷  noun
+
+	📗 Definitions
+	☞ sniff (countable and uncountable, plural sniffs)
+	☞ (countable) An instance of sniffing.
+	☞ (countable) A quantity of something that is inhaled through
+	  the nose
+
+	📘 Examples
+	➡ She gave the flowers a quick sniff to check they were
+	  real.
+	➡ Tottenham did have a sniff of goal when Defoe's drilled
+	  cross just eluded his strike partner at the far post but their
+	  best effort came early in the second half when Ryan Fredericks
+	  cut in from the right before firing into the side netting.
+	➡ Telecoms firms want a sniff, having invested heavily in
+	  ultra-fast, low-latency 5G spectrum.
+   🏷  interjection
+
+	📗 Definitions
+	☞ sniff!
+	☞ A short inhalation sound, sometimes associated with crying.
+
+	📘 Examples
+	➡ a wild boar is laughing and Obelix is crying
+	➡ Wild boar classified a protected species
+	➡ First reaction from dismayed costumers:
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) soar	(Received Pronunciation) enPR: sô, IPA: /sɔː/
+   🏷  verb
+
+	📗 Definitions
+	☞ soar (third-person singular simple present soars, present
+	  participle soaring, simple past and past participle soared)
+	☞ (intransitive) To fly high with little effort, like a bird.
+	☞ To mount upward on wings, or as on wings, especially by
+	  gliding while employing rising air currents.
+
+	📘 Examples
+	➡ When soars Gaul's Vulture, with his wings unfurl'd,
+	➡ The pump prices soared into new heights as the strike
+	  continued.
+	➡ A planning document produced in October 1984 said that
+	  Class 46 maintenance costs were soaring and rapid withdrawal
+	  would occur, and this came to pass by the end of the year.
+   🏷  noun
+
+	📗 Definitions
+	☞ soar (plural soars)
+	☞ The act of soaring.
+	☞ An upward flight.
+
+	📘 Examples
+	➡ this apparent soar of the hooded falcon
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sob	(Received Pronunciation) IPA: /sɒb/
+   🏷  noun
+
+	📗 Definitions
+	☞ sob (plural sobs)
+	☞ A cry with a short, sudden expulsion of breath.
+	☞ (onomatopoeia) sound of sob
+
+	📘 Examples
+	➡ “My husband, alas! whom I now  mourn,A short time since
+	  to this grave  was borne;And  he lies buried in this
+	  grave.”
+   🏷  verb
+
+	📗 Definitions
+	☞ sob (third-person singular simple present sobs, present
+	  participle sobbing, simple past and past participle sobbed)
+	☞ (intransitive) To weep with convulsive gasps.
+	☞ (transitive) To say (something) while sobbing.
+
+	📘 Examples
+	➡ She sigh'd, she sobb'd, and, furious with despair, / She
+	  rent her garments, and she tore her hair.
+	➡ "He doesn't love me!" she sobbed.
+2) sob	(Received Pronunciation) IPA: /sɒb/
+   🏷  verb
+
+	📗 Definitions
+	☞ sob (third-person singular simple present sobs, present
+	  participle sobbing, simple past and past participle sobbed)
+	☞ To soak.
+
+	📘 Examples
+	➡ the Tree, being sobbed and wet, ſwells the Wood
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) solicit	enPR: sə-lĭs'ĭt
+   🏷  verb
+
+	📗 Definitions
+	☞ solicit (third-person singular simple present solicits,
+	  present participle soliciting, simple past and past participle
+	  solicited)
+	☞ To persistently endeavor to obtain an object, or bring about
+	  an event.
+	☞ To woo; to court.
+
+	📘 Examples
+	➡ to solicit alms, or a favour
+	➡ I view my crime, but kindle at the view, / Repent old
+	  pleasures, and solicit new.
+	➡ Did I solicit thee From darkness to promote me?
+   🏷  noun
+
+	📗 Definitions
+	☞ solicit
+	☞ (archaic) solicitation
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) solve	(Received Pronunciation) IPA: /sɒlv/
+   🏷  verb
+
+	📗 Definitions
+	☞ solve (third-person singular simple present solves, present
+	  participle solving, simple past and past participle solved)
+	☞ To find an answer or solution to a problem or question; to
+	  work out.
+	☞ to find out the perpetrator, the motive etc (of crime)
+
+	📘 Examples
+	➡ True piety would effectually solve such scruples.
+	➡ God shall solve the dark decrees of fate.
+	➡ A “moving platform” scheme […] is more technologically
+	  ambitious than maglev trains even though it relies on
+	  conventional rails. Local trains would use side-by-side rails
+	  to roll alongside intercity trains and allow passengers to
+	  switch trains by stepping through docking bays. This set-up
+	  solves several problems […].
+   🏷  noun
+
+	📗 Definitions
+	☞ solve (plural solves)
+	☞ (now rare, chiefly law enforcement) A solution; an
+	  explanation.
+
+	📘 Examples
+	➡ The solve is this, that thou dost common grow.
+	➡ KEVIN: I decided a long time ago that just because I love
+	  Raymond, doesn't mean I have to love the people he works with.
+	  Good solve, Detective.
+	➡ “Hey, Mr. Quilt Bandit.”  Ian smiled. “Nice solve, Nancy
+	  Drew.”
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) soothe	IPA: /suːð/
+   🏷  verb
+
+	📗 Definitions
+	☞ soothe (third-person singular simple present soothes, present
+	  participle soothing, simple past and past participle soothed)
+	☞ (transitive) To restore to ease, comfort, or tranquility;
+	  relieve; calm; quiet; refresh.
+	☞ (transitive) To allay; assuage; mitigate; soften.
+
+	📘 Examples
+	➡ Muſick has Charms to ſooth a ſavage Breaſt, / To ſoften
+	  Rocks, or bend a knotted Oak.
+	➡ Yet Wayne Rooney scored at a good time, three minutes
+	  after the restart, to soothe any gathering nerves and the
+	  night can ultimately be chalked off as one of the finest
+	  occasions of Hodgson's 17 months in the job.
+	➡ I am a cider drinker,
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sort	(UK) IPA: /sɔːt/
+   🏷  noun
+
+	📗 Definitions
+	☞ sort (plural sorts)
+	☞ A general type.
+	☞ Manner; form of being or acting.
+
+	📘 Examples
+	➡ I stumbled along through the young pines and huckleberry
+	  bushes. Pretty soon I struck into a sort of path that, I
+	  cal'lated, might lead to the road I was hunting for. It
+	  twisted and turned, and, the first thing I knew, made a sudden
+	  bend around a bunch of bayberry scrub and opened out into a
+	  big clear space like a lawn.
+	➡ “[…] the awfully hearty sort of Christmas cards that
+	  people do send to other people that they don't know at all
+	  well. You know. The kind that have mottoes like  Here's
+	  rattling good luck and roaring good cheer, / With lashings of
+	  food and great hogsheads of beer. […]”
+	➡ The face which emerged was not reassuring. […]. He was
+	  not a mongol but there was a deficiency of a sort there, and
+	  it was not made more pretty by a latter-day hair cut which
+	  involved eccentrically long elf-locks and oiled black
+	  curls.
+2) sort	(UK) IPA: /sɔːt/
+   🏷  verb
+
+	📗 Definitions
+	☞ sort (third-person singular simple present sorts, present
+	  participle sorting, simple past and past participle sorted)
+	☞ (transitive) To separate items into different categories
+	  according to certain criteria that determine their sorts.
+	☞ (transitive) To arrange into some sequence, usually
+	  numerically, alphabetically or chronologically.
+
+	📘 Examples
+	➡ Synonyms: categorize, class, classify, group
+	➡ Sort the letters in those bags into a separate pile for
+	  each language.
+	➡ And seeing the Rays which differ in Refrangibility may be
+	  parted and sorted from one another, and that either by
+	  Refraction..., or by Reflexion..., and then the several sorts
+	  apart at equal Incidences suffer unequal Refractions,...; it's
+	  manifest that the Sun's Light is an heterogeneous Mixture of
+	  Rays..., as was proposed.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sow	IPA: /saʊ/
+   🏷  noun
+
+	📗 Definitions
+	☞ sow (plural sows or swine)
+	☞ A female pig.
+	☞ A female bear, she-bear.
+
+	📘 Examples
+	➡ Lucky he wasn't a sow. They've usually just dropped a cub
+	  this time of year. A sow would have been cranky as hell.
+	➡ In England, it was generally termed a 'sow', if the
+	  weight was above 10 cwts., if below, it was termed a 'pig'
+	  from which the present term 'pig iron' is derived.
+2) sow	IPA: /saʊ/
+   🏷  verb
+
+	📗 Definitions
+	☞ sow (third-person singular simple present sows, present
+	  participle sowing, simple past sowed, past participle sown or
+	  sowed)
+	☞ (transitive, intransitive) To scatter, disperse, or plant
+	  (seeds).
+	☞ (figuratively) To spread abroad; to propagate.
+
+	📘 Examples
+	➡ When I had sown the field, the day's work was over.
+	➡ As you sow, so shall you reap.
+	➡ And sow dissension in the hearts of brothers.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sparkle	(Received Pronunciation) IPA: /ˈspɑːkəl/
+   🏷  noun
+
+	📗 Definitions
+	☞ sparkle (countable and uncountable, plural sparkles)
+	☞ A little spark; a scintillation.
+	☞ Brilliance; luster.
+
+	📘 Examples
+	➡ As sparckles from the Anduile vse to fly, / When heauie
+	  hammers on the wedge are swaid
+	➡ The lamp was shaded, and the fire was dim, when suddenly
+	  the log, which had burnt through, gave way; a shower of
+	  sparkles rose from the hearth, and a bright blaze illuminated
+	  the room, falling full on Francesca's face, as she bent over
+	  the patient.
+	➡ The shock was sufficiently strong to strike out some
+	  sparkles of his fiery temper.
+2) sparkle	(Received Pronunciation) IPA: /ˈspɑːkəl/
+   🏷  verb
+
+	📗 Definitions
+	☞ sparkle (third-person singular simple present sparkles,
+	  present participle sparkling, simple past and past participle
+	  sparkled)
+	☞ (intransitive) To emit sparks; to throw off ignited or
+	  incandescent particles
+	☞ (by extension) To shine as if throwing off sparks; to emit
+	  flashes of light; to scintillate; to twinkle
+
+	📘 Examples
+	➡ The wood was sparkling in the bonfire.
+	➡ The stars sparkle in the sky.
+	➡ Here, in the transept and choir, where the service was
+	  being held, one was conscious every moment of an increasing
+	  brightness; colours glowing vividly beneath the circular
+	  chandeliers, and the rows of small lights on the choristers'
+	  desks flashed and sparkled in front of the boys' faces, deep
+	  linen collars, and red neckbands.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) speak	(Received Pronunciation) IPA: /spiːk/
+   🏷  verb
+
+	📗 Definitions
+	☞ speak (third-person singular simple present speaks, present
+	  participle speaking, simple past spoke or (archaic) spake,
+	  past participle spoken or (colloquial, nonstandard) spoke)
+	☞ (intransitive) To communicate with one's voice, to say words
+	  out loud.
+	☞ (intransitive, reciprocal) To have a conversation.
+
+	📘 Examples
+	➡ And Vickers launched forth into a tirade very different
+	  from his platform utterances. He spoke with extreme contempt
+	  of the dense stupidity exhibited on all occasions by the
+	  working classes. He said that if you wanted to do anything for
+	  them, you must rule them, not pamper them.
+	➡ I was so surprised I couldn't speak.
+	➡ You're speaking too fast.
+   🏷  noun
+
+	📗 Definitions
+	☞ speak (countable and uncountable, plural speaks)
+	☞ language, jargon, or terminology used uniquely in a particular
+	  environment or group.
+	☞ Speech, conversation.
+
+	📘 Examples
+	➡ Corporate speak; IT speak.
+   🏷  noun
+
+	📗 Definitions
+	☞ speak (plural speaks)
+	☞ (dated) a low class bar, a speakeasy.
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) speed	IPA: /spiːd/
+   🏷  noun
+
+	📗 Definitions
+	☞ speed (countable and uncountable, plural speeds)
+	☞ The state of moving quickly or the capacity for rapid motion.
+	☞ (mathematics, physics) The rate of motion or action,
+	  specifically  the magnitude of the velocity; the rate distance
+	  is traversed in a given time.
+
+	📘 Examples
+	➡ Synonyms: celerity, rapidity, velocity
+	➡ How does Usain Bolt run at that speed?
+	➡ Hyponyms: lightspeed, speed of light, speed of sound
+   🏷  interjection
+
+	📗 Definitions
+	☞ speed
+	☞ (film) Called by the soundman when the recording equipment has
+	  reached running speed and is ready to go.
+
+	📘 Examples
+	➡ “Speed,” Carlos, the soundman, said.  […]
+	  “Camera.”“Rolling,” replied Bryce, the cameraman.
+	➡ […]  the director called, “Roll 'em,” the sound man said,
+	  “Speed,” and Norling stepped in and said,  […]
+2) speed	IPA: /spiːd/
+   🏷  verb
+
+	📗 Definitions
+	☞ speed (third-person singular simple present speeds, present
+	  participle speeding, simple past and past participle sped or
+	  (mostly UK) speeded)
+	☞ (intransitive, archaic) To succeed; to prosper, be lucky.
+	☞ (transitive, archaic) To help someone, to give them fortune;
+	  to aid or favour.
+
+	📘 Examples
+	➡ And yf I maye fynde suche a knyghte that hath all these
+	  vertues / he may drawe oute this swerd oute of the shethe /
+	  for I haue ben at kyng Ryons / it was told me ther were
+	  passyng good knyghtes / and he and alle his knyghtes haue
+	  assayed it and none can spede
+	➡ We have been praying for our husbands' healths,Which
+	  speed, we hope, the better for our words.Are they
+	  returned?
+	➡ Aristotle must find out the motion of Euripus; Pliny must
+	  needs see Vesuvius; but how sped they? One loseth goods,
+	  another his life.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spell	enPR: spĕl, IPA: /spɛl/
+   🏷  noun
+
+	📗 Definitions
+	☞ spell (plural spells)
+	☞ Words or a formula supposed to have magical powers. [from 16th
+	  c.]
+	☞ A magical effect or influence induced by an incantation or
+	  formula. [from 16th c.]
+
+	📘 Examples
+	➡ Synonyms: cantrip, incantation
+	➡ He cast a spell to cure warts.
+	➡ Synonym: cantrip
+   🏷  verb
+
+	📗 Definitions
+	☞ spell (third-person singular simple present spells, present
+	  participle spelling, simple past and past participle spelled)
+	☞ To put under the influence of a spell; to affect by a spell;
+	  to bewitch; to fascinate; to charm.
+
+	📘 Examples
+	➡ […]  although the Kings Jealousie was thus particular to
+	  her, his Affection was as general to others  […]  Above all,
+	  for a time he was much speld with Elianor Talbot  […]
+	➡ This, gather’d in the Planetary Hour,
+	➡ With noxious Weeds, and spell’d with Words of pow’r
+2) spell	enPR: spĕl, IPA: /spɛl/
+   🏷  verb
+
+	📗 Definitions
+	☞ spell (third-person singular simple present spells, present
+	  participle spelling, simple past and past participle spelled
+	  or (mostly UK) spelt)
+	☞ (transitive, obsolete) To read (something) as though letter by
+	  letter; to peruse slowly or with effort. [from 14th c.]
+	☞ (transitive, sometimes with “out”) To write or say the letters
+	  that form a word or part of a word. [from 16th c.]
+
+	📘 Examples
+	➡ "He'll do," said Bildad, eyeing me, and then went on
+	  spelling away at his book in a mumbling tone quite
+	  audible.
+	➡ I find it difficult to spell because I'm dyslexic.
+	➡ The letters “a”, “n” and “d” spell “and”.
+3) spell	enPR: spĕl, IPA: /spɛl/
+   🏷  verb
+
+	📗 Definitions
+	☞ spell (third-person singular simple present spells, present
+	  participle spelling, simple past and past participle spelled
+	  or spelt)
+	☞ (transitive) To work in place of (someone).
+	☞ (transitive) To rest (someone or something), to give someone
+	  or something a rest or break.
+
+	📘 Examples
+	➡ to spell the helmsman
+	➡ They spelled the horses and rested in the shade of some
+	  trees near a brook.
+   🏷  noun
+
+	📗 Definitions
+	☞ spell (plural spells)
+	☞ A shift (of work); (rare) a set of workers responsible for a
+	  specific turn of labour. [from 16th c.]
+	☞ (informal) A definite period (of work or other activity).
+	  [from 18th c.]
+
+	📘 Examples
+	➡ A chap named Eleazir Kendrick and I had chummed in
+	  together the summer afore and built a fish-weir and shanty at
+	  Setuckit Point, down Orham way. For a spell we done pretty
+	  well. Then there came a reg'lar terror of a sou'wester same as
+	  you don't get one summer in a thousand, and blowed the shanty
+	  flat and ripped about half of the weir poles out of the
+	  sand.
+	➡ I had a job in the great North Woods / Workin' as a cook
+	  for a spell / But I never did like it all that much / And one
+	  day the ax just fell
+	➡ Despite his ill-fated spell at Anfield, he received a
+	  warm reception from the same Liverpool fans he struggled to
+	  win over before being sacked midway through last season.
+4) spell	enPR: spĕl, IPA: /spɛl/
+   🏷  noun
+
+	📗 Definitions
+	☞ spell (plural spells)
+	☞ (dialectal) A splinter, usually of wood; a spelk.
+	☞ The wooden bat in the game of trap ball, or knurr and spell.
+
+	📘 Examples
+	➡ To swadle a bowe much about wyth bandes, verye seldome
+	  dothe anye good, excepte it be to kepe downe a spel in the
+	  backe.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spend	IPA: /spɛnd/
+   🏷  verb
+
+	📗 Definitions
+	☞ spend (third-person singular simple present spends, present
+	  participle spending, simple past and past participle spent)
+	☞ (transitive, intransitive) To pay out (money).
+	☞ To bestow; to employ; often with on or upon.
+
+	📘 Examples
+	➡ He spends far more on gambling than he does on living
+	  proper.
+	➡ Then there came a reg'lar terror of a sou'wester same as
+	  you don't get one summer in a thousand, and blowed the shanty
+	  flat and ripped about half of the weir poles out of the sand.
+	  We spent consider'ble money getting 'em reset, and then a
+	  swordfish got into the pound and tore the nets all to
+	  slathers, right in the middle of the squiteague season.
+	➡ In America alone, people spent $170 billion on “direct
+	  marketing”—junk mail of both the physical and electronic
+	  varieties—last year. Yet of those who received unsolicited
+	  adverts through the post, only 3% bought anything as a
+	  result.
+   🏷  noun
+
+	📗 Definitions
+	☞ spend (countable and uncountable, plural spends)
+	☞ Amount of money spent (during a period); expenditure.
+	☞ (in the plural) Expenditures; money or pocket money.
+
+	📘 Examples
+	➡ I’m sorry, boss, but the advertising spend exceeded the
+	  budget again this month.
+	➡ Total January spends by year
+	➡ The spends have been made by our strategic partners
+	  […]
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spill	IPA: /spɪl/
+   🏷  verb
+
+	📗 Definitions
+	☞ spill (third-person singular simple present spills, present
+	  participle spilling, simple past and past participle spilled
+	  or spilt)
+	☞ (transitive) To drop something so that it spreads out or makes
+	  a mess; to accidentally pour.
+	☞ (intransitive) To spread out or fall out, as above.
+
+	📘 Examples
+	➡ I spilled some sticky juice on the kitchen floor.
+	➡ Some sticky juice spilled onto the kitchen floor.
+	➡ He was so topful of himself, that he let it spill on all
+	  the company.
+   🏷  noun
+
+	📗 Definitions
+	☞ spill (plural spills)
+	☞ (countable) A mess of something that has been dropped.
+	☞ A fall or stumble.
+
+	📘 Examples
+	➡ The bruise is from a bad spill he had last week.
+	➡ Kit froze with the pipe between his teeth, the relit
+	  spill pressed to the weed within it.
+	➡ Spill or Sportule for the same from the credulous
+	  Laity
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spin	IPA: /spɪn/
+   🏷  verb
+
+	📗 Definitions
+	☞ spin (third-person singular simple present spins, present
+	  participle spinning, simple past and past participle spun or
+	  span)
+	☞ (ergative) To rotate, revolve, gyrate (usually quickly); to
+	  partially or completely rotate to face another direction.
+	☞ (transitive) To make yarn by twisting and winding fibers
+	  together.
+
+	📘 Examples
+	➡ I spun myself around a few times.
+	➡ Spin the ball on the floor.
+	➡ She spun around and gave him a big smile.
+   🏷  noun
+
+	📗 Definitions
+	☞ spin (countable and uncountable, plural spins)
+	☞ Rapid circular motion.
+	☞ (physics) A quantum angular momentum associated with subatomic
+	  particles, which also creates a magnetic moment.
+
+	📘 Examples
+	➡ The car went into a spin.
+	➡ The skaters demonstrated their spins.
+	➡ He put some spin on the cue ball.
+2) spin	IPA: /spɪn/
+   🏷  noun
+
+	📗 Definitions
+	☞ spin (plural spins)
+	☞ (nautical) Short for spinnaker.
+
+	📘 Examples
+	➡ “Frank!” Joe yelled. “Run the spin halyard to the cabin-
+	  top winch and pass me the free end!”
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spit	(Received Pronunciation, General American) IPA: /spɪt/
+   🏷  noun
+
+	📗 Definitions
+	☞ spit (plural spits)
+	☞ A thin metal or wooden rod on which meat is skewered for
+	  cooking, often over a fire.
+	☞ A generally low, narrow, pointed, usually sandy peninsula.
+
+	📘 Examples
+	➡ Synonym: broach
+	➡ They roaſt a fowl, by running a piece of wood through it,
+	  by way of ſpit, and holding it over a briſk fire, until the
+	  feathers are burnt of, when it is ready for eating, in their
+	  taſte.
+	➡ An Engliſh family in the country, [...] would receive you
+	  with an unquiet hoſpitality, and an anxious politeneſs; and
+	  after waiting for a hurry-ſcurry derangement of cloth, table,
+	  plates, ſideboard, pot and ſpit, would give you perhaps ſo
+	  good a dinner, that none of the family, between anxiety and
+	  fatigue, could ſupply one word of converſation, and you would
+	  depart under cordial wiſhes that you might never return.—This
+	  folly, ſo common in England, is never met with in France:
+	  [...]
+   🏷  verb
+
+	📗 Definitions
+	☞ spit (third-person singular simple present spits, present
+	  participle spitting, simple past and past participle spitted)
+	☞ (transitive) To impale on a spit; to pierce with a sharp
+	  object.
+	☞ (transitive) To use a spit to cook; to attend to food that is
+	  cooking on a spit.
+
+	📘 Examples
+	➡ to spit a loin of veal
+	➡ [W]hy in a moment looke to ſee / The blind and bloody
+	  Souldier, with foule hand / Deſire the Locks of your ſhrill-
+	  ſhriking Daughters: / Your Fathers taken by the ſiluer Bears,
+	  / And their moſt reuerend Heads daſht to the Walls: / Your
+	  naked Infants ſpitted vpon Pykes, / Whiles the mad Mothers,
+	  with their howles confus'd, / Doe breake the Clouds, [...] /
+	  What ſay you? Will you yeeld, and thus auoyd? / Or guiltie in
+	  defence, be thus destroy'd.
+	➡ Fried or roast mice, spitted on sticks like kebabs, are
+	  often offered for sale by the roadside.
+2) spit	(Received Pronunciation, General American) IPA: /spɪt/
+   🏷  verb
+
+	📗 Definitions
+	☞ spit (third-person singular simple present spits, present
+	  participle spitting, simple past and past participle spat or
+	  spit)
+	☞ (transitive, intransitive) To evacuate (saliva or another
+	  substance) from the mouth, etc.
+	☞ (transitive, intransitive) To emit or expel in a manner
+	  similar to evacuating saliva from the mouth; specifically, to
+	  rain or snow slightly.
+
+	📘 Examples
+	➡ Synonym: expectorate
+	➡ And they ſpit upon him [Jesus Christ], and tooke the
+	  reed, and ſmote him on the head.
+	➡ Aquil[ina]. [...] pray what Beast will your Worship
+	  please to be next? / Anto[nio]. Now I'l be a Senator agen, and
+	  thy Lover little Nicky Nacky! [He sits by her.] Ah toad, toad,
+	  toad, toad! spit in my Face a little, but a little bit—spit in
+	  my Face prithee, spit in my Face, never so little: [...]
+   🏷  noun
+
+	📗 Definitions
+	☞ spit (countable and uncountable, plural spits)
+	☞ (uncountable) Saliva, especially when expectorated.
+	☞ (countable) An instance of spitting; specifically, a light
+	  fall of rain or snow.
+
+	📘 Examples
+	➡ Synonyms: expectoration, spittle
+	➡ There was spit all over the washbasin.
+	➡ Sometimes your body doesn't make as much spit as it
+	  needs. When you sleep, your salivary glands take a bit of a
+	  snooze too. You're still making spit, but not as much. This is
+	  why your mouth feels dry when you wake up.
+3) spit	(Received Pronunciation, General American) IPA: /spɪt/
+   🏷  noun
+
+	📗 Definitions
+	☞ spit (plural spits)
+	☞ The depth to which the blade of a spade goes into the soil
+	  when it is used for digging; a layer of soil of the depth of a
+	  spade's blade.
+	☞ The amount of soil that a spade holds; a spadeful.
+
+	📘 Examples
+	➡ They [the potatoes] ſtood till October, when they were
+	  taken up, and a large pye made of them; which is laying them
+	  up in a heap, and covering them with ſtraw and a ſpit of
+	  earth.
+	➡ The firſt plantation, containing four thouſand ſix
+	  hundred oaks, was formed on part of the ancient Home Park,
+	  ſurrounding this Caſtle: the ſoil was dug one full ſpit, and
+	  the turf inverted; [...]
+	➡ Soil of the usual depth may be trenched two spit  deep;
+	  and if this is done every third year, it is evident that the
+	  surface which has produced three crops will rest for the next
+	  three years; thus giving a much better chance of constantly
+	  producing healthy and luxuriant crops, and with one half the
+	  manure that would otherwise be requisite.
+   🏷  verb
+
+	📗 Definitions
+	☞ spit (third-person singular simple present spits, present
+	  participle spitting, simple past and past participle spitted)
+	☞ (transitive, dialectal) To dig (something) using a spade;
+	  also, to turn (the soil) using a plough.
+	☞ (transitive, dialectal) To plant (something) using a spade.
+
+	📘 Examples
+	➡ [T]he double plough, by taking faſt hold of the mould,
+	  throws all back again; and if the vegetables are not
+	  effectually earthed up, which may be the caſe after double
+	  ſpitting the intervals, then running the double plough over
+	  again, completes the buſineſs, and ſtrangely toſſes about and
+	  mellows the mould.
+	➡ When the [peach] seed is procured it is either "spitted
+	  in" with a spade or planted in rows in the nursery.
+	➡ Synonym: delve
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) split	enPR: splĭt, IPA: /splɪt/
+   🏷  adjective
+
+	📗 Definitions
+	☞ split (not comparable)
+	☞ Divided.
+	☞ (algebra, of a short exact sequence) Having the middle group
+	  equal to the direct product of the others.
+
+	📘 Examples
+	➡ Republicans appear split on the centerpiece of Mr.
+	  Obama's economic recovery plan.
+	➡ With the descent of the cold war, relations between the
+	  two countries  were almost completely broken off, with whole
+	  families split for the ensuing decades, some for ever.
+	➡ 10+3⁄16 is a split quotation.
+   🏷  noun
+
+	📗 Definitions
+	☞ split (plural splits)
+	☞ A crack or longitudinal fissure.
+	☞ A breach or separation, as in a political party; a division.
+
+	📘 Examples
+	➡ The kernels split in shelling, known as splits, form a
+	  fifth grade of shelled Virginia peanuts.
+	➡ Hyponym: bro split
+	➡ He’s got a nasty split.
+   🏷  verb
+
+	📗 Definitions
+	☞ split (third-person singular simple present splits, present
+	  participle splitting, simple past and past participle split)
+	☞ (transitive, ergative, of something solid) To divide fully or
+	  partly along a more or less straight line.
+	☞ (intransitive, of something solid, particularly wood) To break
+	  along the grain fully or partly along a more or less straight
+	  line.
+
+	📘 Examples
+	➡ Synonym: cleave
+	➡ He has split his lip.
+	➡ a huge vessel of exceeding hard marble split asunder by
+	  congealed water
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spoil	enPR: spoil, IPA: /spɔɪl/
+   🏷  verb
+
+	📗 Definitions
+	☞ spoil (third-person singular simple present spoils, present
+	  participle spoiling, simple past and past participle spoiled
+	  or spoilt)
+	☞ (transitive, archaic) To strip (someone who has been killed or
+	  defeated) of their arms or armour. [from 14th c.]
+	☞ (transitive, archaic) To strip or deprive (someone) of their
+	  possessions; to rob, despoil. [from 14th c.]
+
+	📘 Examples
+	➡ All that herde hym wer amased and sayde: ys nott this he
+	  that spoylled them whych called on this name in Jerusalem?
+	➡ To do her dye  were despight, / And shame t'auenge so
+	  weake an enimy; / But spoile her of her scarlot robe, and let
+	  her fly.
+	➡ Roger, that rich Bishop of Salisbury, […] spoiled of his
+	  goods by King Stephen,  […] through grief ran mad, spoke and
+	  did he knew not what.
+   🏷  noun
+
+	📗 Definitions
+	☞ spoil (plural spoils)
+	☞ (Also in plural: spoils) Plunder taken from an enemy or
+	  victim.
+	☞ (archaic) The act of taking plunder from an enemy or victim;
+	  spoliation, pillage, rapine.
+
+	📘 Examples
+	➡ Thoſe thouſand horſe shall ſweat with martiall ſpoyleOf
+	  conquered kingdomes, and of Cities ſackt,  […]
+	➡ This countrey ſwarmes with vile outragious men,That liue
+	  by rapine and by lawleſſe ſpoile,Fit ſouldiers for the wicked
+	  Tamburlaine.
+	➡ In view of the decline in freight traffic, it was strange
+	  to hear from Mr. Lambert that there is "a continuing problem
+	  of supplying, particularly for the civil engineer, the number
+	  of wagons required for carrying construction materials and
+	  spoil for various works."
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spray	IPA: /spɹeɪ/
+   🏷  noun
+
+	📗 Definitions
+	☞ spray (countable and uncountable, plural sprays)
+	☞ A fine, gentle, dispersed mist of liquid.
+	☞ (countable) A pressurized container; an atomizer.
+
+	📘 Examples
+	➡ The sailor could feel the spray from the waves.
+	➡ Synonym: spray can
+	➡ Synonym: spray can
+   🏷  verb
+
+	📗 Definitions
+	☞ spray (third-person singular simple present sprays, present
+	  participle spraying, simple past and past participle sprayed)
+	☞ (transitive) To project a liquid in a dispersive manner toward
+	  something.
+	☞ (ergative) To project in a dispersive manner.
+
+	📘 Examples
+	➡ The firemen sprayed the house.
+	➡ Using a water cannon, the national guard sprayed the
+	  protesters.
+	➡ Spray some ointment on that scratch.
+2) spray	IPA: /spɹeɪ/
+   🏷  noun
+
+	📗 Definitions
+	☞ spray (countable and uncountable, plural sprays)
+	☞ (countable) A small branch of flowers or berries.
+	☞ (countable) A collective body of small branches.
+
+	📘 Examples
+	➡ The bridesmaid carried a spray of lily-of-the-valley.
+	➡ O Nightingale, that on yon bloomy ſpray / Warbleſt at
+	  eve, when all the woods are ſtill, / Thou with freſh hope the
+	  lover’s heart doſt fill, / While the jolly hours lead on
+	  propitious May.
+	➡ The painted Birds, Companions of the Spring, / Hopping
+	  from Spray to Spray, were heard to ſing ; / Both Eyes and Ears
+	  receiv’d a like Delight, / Enchanting Muſick, and a charming
+	  Sight.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spread	IPA: /spɹɛd/
+   🏷  verb
+
+	📗 Definitions
+	☞ spread (third-person singular simple present spreads, present
+	  participle spreading, simple past and past participle spread)
+	☞ (transitive) To stretch out, open out (a material etc.) so
+	  that it more fully covers a given area of space. [from 13th
+	  c.]
+	☞ (transitive) To extend (individual rays, limbs etc.); to
+	  stretch out in varying or opposing directions. [from 13th c.]
+
+	📘 Examples
+	➡ He spread his newspaper on the table.
+	➡ I spread my arms wide and welcomed him home.
+	➡ I spread the rice grains evenly over the floor.
+   🏷  noun
+
+	📗 Definitions
+	☞ spread (countable and uncountable, plural spreads)
+	☞ The act of spreading.
+	☞ Something that has been spread.
+
+	📘 Examples
+	➡ No flower hath that kind of spread that the woodbine
+	  hath.
+	➡ I have got a fine spread of improvable lands.
+	➡ - Can’t wait till I get my own spread and won’t have to
+	  put up with Joe Aguirre’s crap no more.- I’m savin’ for a
+	  place myself.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) spring	enPR: sprĭng, IPA: /spɹɪŋ/
+   🏷  verb
+
+	📗 Definitions
+	☞ spring (third-person singular simple present springs, present
+	  participle springing, simple past sprang or sprung, past
+	  participle sprung)
+	☞ (intransitive) To burst forth.
+	☞ (transitive, archaic, of beards) To grow.
+
+	📘 Examples
+	➡ ...for swenge swat ædrum sprongforð under fexe.
+	➡ ...for the swing, the blood from his veins sprangforth
+	  under his hair.
+	➡ ...þe wound þat was springand with huge stremes of
+	  blude...
+   🏷  noun
+
+	📗 Definitions
+	☞ spring (countable and uncountable, plural springs)
+	☞ (countable) An act of springing: a leap, a jump.
+	☞ (countable) The season of the year in temperate regions in
+	  which plants spring from the ground and into bloom and dormant
+	  animals spring to life.
+
+	📘 Examples
+	➡ The pris'ner with a spring from prison broke;Then
+	  stretch'd his feather'd fans with all his might,And to the
+	  neighb'ring maple wing'd his flight.
+	➡ Last spring, the periodical cicadas emerged across
+	  eastern North America. Their vast numbers and short above-
+	  ground life spans inspired awe and irritation in humans—and
+	  made for good meals for birds and small mammals.
+	➡ Spring is the time of the year most species
+	  reproduce.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sprout	(US) IPA: /spɹaʊt/
+   🏷  noun
+
+	📗 Definitions
+	☞ sprout (plural sprouts)
+	☞ A new growth on a plant, whether from seed or other parts.
+	☞ A child.
+
+	📘 Examples
+	➡ Oh my, how your sprouts have grown!
+	➡ In our family we eat sprouts but once a year, on
+	  Christmas.
+   🏷  verb
+
+	📗 Definitions
+	☞ sprout (third-person singular simple present sprouts, present
+	  participle sprouting, simple past and past participle
+	  sprouted)
+	☞ (horticulture, intransitive) To grow from seed; to germinate.
+	☞ (transitive) To cause to grow from a seed.
+
+	📘 Examples
+	➡ The crocuses should be sprouting after 2 months, provided
+	  they're well tended.
+	➡ I sprouted beans and radishes and put them in my
+	  salad.
+	➡ to sprout potatoes
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) squeeze	IPA: /skwiːz/
+   🏷  verb
+
+	📗 Definitions
+	☞ squeeze (third-person singular simple present squeezes,
+	  present participle squeezing, simple past squeezed or
+	  (nonstandard) squoze, past participle squeezed or
+	  (nonstandard) squozen)
+	☞ (transitive) To apply pressure to from two or more sides at
+	  once.
+	☞ (transitive) To embrace closely; to give a tight hug to.
+
+	📘 Examples
+	➡ I squeezed the ball between my hands.
+	➡ Please don't squeeze the toothpaste tube in the
+	  middle.
+	➡ "Over there—by the rock," Steele muttered, with his brush
+	  between his teeth, squeezing out raw sienna, and keeping his
+	  eyes fixed on Betty Flanders's back.
+   🏷  noun
+
+	📗 Definitions
+	☞ squeeze (plural squeezes)
+	☞ A close or tight fit.
+	☞ (figuratively) A difficult position.
+
+	📘 Examples
+	➡ I'm in a tight squeeze right now when it comes to my free
+	  time.
+	➡ a gentle squeeze on the arm
+	➡ I want to be your main squeeze.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stand	IPA: /stænd/
+   🏷  verb
+
+	📗 Definitions
+	☞ stand (third-person singular simple present stands, present
+	  participle standing, simple past stood, past participle stood
+	  or (obsolete) standen or (nonstandard) stand)
+	☞ (heading) To position or be positioned physically.
+	☞ (heading) To position or be positioned mentally.
+
+	📘 Examples
+	➡ Here I stand, wondering what to do next.
+	➡ Then came a maid with hand-bag and shawls, and after her
+	  a tall young lady. She stood for a moment holding her skirt
+	  above the grimy steps, […], and the light of the reflector
+	  fell full upon her.
+	➡ At one time a "standard test" for carriage riding was to
+	  stand a pencil on end on the compartment floor, or to measure
+	  how long it was possible to stand on one leg without touching
+	  the corridor walls; [...].
+   🏷  noun
+
+	📗 Definitions
+	☞ stand (plural stands)
+	☞ The act of standing.
+	☞ A defensive position or effort.
+
+	📘 Examples
+	➡ I took my stand upon an eminence […] to look into their
+	  several ladings.
+	➡ The Commander says we will make our stand here.
+	➡ They took a firm stand against copyright
+	  infringement.
+2) stand	IPA: /stænd/
+   🏷  noun
+
+	📗 Definitions
+	☞ stand (plural stands)
+	☞ (obsolete) This term needs a definition. Please help out and
+	  add a definition, then remove the text {{rfdef}}.
+	☞ (obsolete) A weight of from two hundred and fifty to three
+	  hundred pounds, used in weighing pitch.
+
+	📘 Examples
+	➡ Item, for a ſtande of small ale - ii s.
+	➡ […] one gialfatte, 3 stannes 3s., […]
+	➡ Therefore at length sir Iefferie bethought him of a feat
+	  whereby he might both visit the alestond, and also keepe his
+	  othe.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stare	(General American) IPA: /stɛəɹ/
+   🏷  verb
+
+	📗 Definitions
+	☞ stare (third-person singular simple present stares, present
+	  participle staring, simple past and past participle stared)
+	☞ (intransitive, construed with at) To look fixedly (at
+	  something).
+	☞ (transitive) To influence in some way by looking fixedly.
+
+	📘 Examples
+	➡ Synonyms: see Thesaurus:stare
+	➡ Her sturdy stallion had now unbutton'd, and produced
+	  naked, stiff, and erect, that wonderful machine, which I had
+	  never seen before, and which, for the interest my own seat of
+	  pleasure began to take furiously in it, I star'd at with all
+	  the eyes I had
+	➡ A great bargain also had been the excellent Axminster
+	  carpet which covered the floor; as, again, the arm-chair in
+	  which Bunting now sat forward, staring into the dull, small
+	  fire. In fact, that arm-chair had been an extravagance of Mrs.
+	  Bunting. She had wanted her husband to be comfortable after
+	  the day's work was done, and she had paid thirty-seven
+	  shillings for the chair.
+   🏷  noun
+
+	📗 Definitions
+	☞ stare (plural stares)
+	☞ A persistent gaze.
+
+	📘 Examples
+	➡ the stares of astonished passers-by
+2) stare	(General American) IPA: /stɛəɹ/
+   🏷  noun
+
+	📗 Definitions
+	☞ stare (plural stares)
+	☞ (now archaic) A starling. [from 9th c.]
+
+	📘 Examples
+	➡ The Stares be bigger than thoſe in England, as blacke as
+	  Crowes, being the most troubleſome, and injurious bird of all
+	  others […].
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) start	(Received Pronunciation) IPA: /stɑːt/
+   🏷  noun
+
+	📗 Definitions
+	☞ start (plural starts)
+	☞ The beginning of an activity.
+	☞ A sudden involuntary movement.
+
+	📘 Examples
+	➡ The movie was entertaining from start to finish.
+	➡ I see you stand like greyhounds in the slips, / Straining
+	  upon the start.
+	➡ He woke with a start.
+2) start	(Received Pronunciation) IPA: /stɑːt/
+   🏷  verb
+
+	📗 Definitions
+	☞ start (third-person singular simple present starts, present
+	  participle starting, simple past and past participle started)
+	☞ (transitive) To begin, commence, initiate.
+	☞ (intransitive) To begin an activity.
+
+	📘 Examples
+	➡ to start a stream of water;   to start a rumour;   to
+	  start a business
+	➡ I was some years ago engaged in conversation with a
+	  fashionable French Abbe, upon a subject which the people of
+	  that kingdom love to start in discourse.
+	➡ In the autumn there was a row at some cement works about
+	  the unskilled labour men. A union had just been started for
+	  them and all but a few joined. One of these blacklegs was laid
+	  for by a picket and knocked out of time.
+3) start	(Received Pronunciation) IPA: /stɑːt/
+   🏷  noun
+
+	📗 Definitions
+	☞ start (plural starts)
+	☞ A tail, or anything projecting like a tail.
+	☞ A handle, especially that of a plough.
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) state	(Received Pronunciation, General American) IPA: /steɪt/
+   🏷  noun
+
+	📗 Definitions
+	☞ state (plural states)
+	☞ A condition; a set of circumstances applying at any given
+	  time.
+	☞ High social standing or circumstance.
+
+	📘 Examples
+	➡ a state of being; a state of emergency
+	➡ Relate what Latium was, her ancient Kings : / Declare the
+	  paſt, and preſent State of things, / When firſt the Trojan
+	  Fleet Auſonia ſought ; / And how the Rivals lov’d, and how
+	  they fought.
+	➡ I corralled the judge, and we started off across the
+	  fields, in no very mild state of fear of that gentleman's
+	  wife, whose vigilance was seldom relaxed.
+   🏷  verb
+
+	📗 Definitions
+	☞ state (third-person singular simple present states, present
+	  participle stating, simple past and past participle stated)
+	☞ (transitive) To declare to be a fact.
+	☞ (transitive) To make known.
+
+	📘 Examples
+	➡ He stated that he was willing to help.
+	➡ Carried somehow, somewhither, for some reason, on these
+	  surging floods, were these travelers, of errand not wholly
+	  obvious to their fellows, yet of such sort as to call into
+	  query alike the nature of their errand and their own
+	  relations. It is easily earned repetition to state that
+	  Josephine St. Auban's was a presence not to be concealed.
+	➡ State your intentions.
+   🏷  adjective
+
+	📗 Definitions
+	☞ state (comparative more state, superlative most state)
+	☞ (obsolete) Stately.
+
+	📘 Examples
+	➡ The ſhepheardes ſwayne you cannot well ken, / But it be
+	  by his pride, from other men: / They looken bigge as Bulles,
+	  that bene bate, / And bearen the cragge ſo ſtiffe and ſo
+	  ſtate, / As Cocke on his dunghill, crowing cranck.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stay	enPR: stā, IPA: /steɪ/
+   🏷  verb
+
+	📗 Definitions
+	☞ stay (third-person singular simple present stays, present
+	  participle staying, simple past and past participle stayed or
+	  (obsolete) staid)
+	☞ (transitive) To prop; support; sustain; hold up; steady.
+	☞ (transitive) To support from sinking; to sustain with
+	  strength; to satisfy in part or for the time.
+
+	📘 Examples
+	➡ Lord Mayor of London. See, where he stands between two
+	  clergymen!Duke of Buckingham. Two props of virtue for a
+	  Christian prince,To stay him from the fall of vanity:
+	➡ But Moses hands were heavy; and they took a stone, and
+	  put it under him, and he sat thereon; and Aaron and Hur stayed
+	  up his hands, the one on the one side, and the other on the
+	  other side; and his hands were steady until the going down of
+	  the sun.
+	➡ Draw in your right elbow, turn your hand outward and bear
+	  it lightly, gripe not the pen too hard, with your left hand
+	  stay the paper.
+   🏷  noun
+
+	📗 Definitions
+	☞ stay (plural stays)
+	☞ Continuance or a period of time spent in a place; abode for an
+	  indefinite time.
+	☞ (law) A postponement, especially of an execution or other
+	  punishment.
+
+	📘 Examples
+	➡ Synonym: sojourn
+	➡ I hope you enjoyed your stay in Hawaii.
+	➡ The governor granted a stay of execution.
+2) stay	enPR: stā, IPA: /steɪ/
+   🏷  noun
+
+	📗 Definitions
+	☞ stay (plural stays)
+	☞ A prop; a support.
+	☞ A piece of stiff material, such as plastic or whalebone, used
+	  to stiffen a piece of clothing.
+
+	📘 Examples
+	➡ My onely strength and stay.
+	➡ The trees themselves serve, at the same time, as so many
+	  stays for their Vines
+	➡ Lord Liverpool is the single stay of this ministry.
+3) stay	enPR: stā, IPA: /steɪ/
+   🏷  noun
+
+	📗 Definitions
+	☞ stay (plural stays)
+	☞ (nautical) A strong rope or wire supporting a mast, and
+	  leading from one masthead down to some other, or other part of
+	  the vessel.
+	☞ A guy, rope, or wire supporting or stabilizing a platform,
+	  such as a bridge, a pole, such as a tentpole, the mast of a
+	  derrick, or other structural element.
+
+	📘 Examples
+	➡ The engineer insisted on using stays for the
+	  scaffolding.
+   🏷  verb
+
+	📗 Definitions
+	☞ stay (third-person singular simple present stays, present
+	  participle staying, simple past and past participle stayed)
+	☞ To brace or support with a stay or stays
+	☞ (transitive, nautical) To incline forward, aft, or to one side
+	  by means of stays.
+
+	📘 Examples
+	➡ stay a mast
+	➡ to stay ship
+4) stay	enPR: stā, IPA: /steɪ/
+   🏷  adjective
+
+	📗 Definitions
+	☞ stay (comparative stayer or more stay, superlative stayest or
+	  most stay)
+	☞ (UK dialectal) Steep; ascending.
+	☞ (UK dialectal) (of a roof) Steeply pitched.
+
+	📘 Examples
+	➡ The Castle of Edr. is naturally a great strenth situate
+	  upon the top of a high Rock perpendicular on all sides, except
+	  on the entry from the burgh, which is a stay ascent and is
+	  well fortified with strong Walls, three gates each one within
+	  another, with Drawbridges, and all necessary
+	  fortifications.
+   🏷  adverb
+
+	📗 Definitions
+	☞ stay (comparative stayer or more stay, superlative stayest or
+	  most stay)
+	☞ (UK dialectal) Steeply.
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) steal	enPR: stēl, IPA: /stiːl/
+   🏷  verb
+
+	📗 Definitions
+	☞ steal (third-person singular simple present steals, present
+	  participle stealing, simple past stole, past participle stolen
+	  or (nonstandard, colloquial) stole)
+	☞ (transitive) To take illegally, or without the owner's
+	  permission, something owned by someone else.
+	☞ (transitive, of ideas, words, music, a look, credit, etc.) To
+	  appropriate without giving credit or acknowledgement.
+
+	📘 Examples
+	➡ Three irreplaceable paintings were stolen from the
+	  gallery.
+	➡ At length, one night, when the company by ſome accident
+	  broke up much ſooner than ordinary, ſo that the candles were
+	  not half burnt out, ſhe was not able to reſiſt the temptation,
+	  but reſolved to have them ſome way or other. Accordingly, as
+	  ſoon as the hurry was over, and the ſervants, as ſhe thought,
+	  all gone to ſleep, ſhe ſtole out of her bed, and went down
+	  ſtairs, naked to her ſhift as ſhe was, with a deſign to ſteal
+	  them […].
+	➡ "I was dragged up at the workhouse school till I was
+	  twelve. Then I ran away and sold papers in the streets, and
+	  anything else that I could pick up a few coppers by—except
+	  steal. I never did that. I always made up my mind I'd be a big
+	  man some day, and—I'm glad I didn't steal."
+   🏷  noun
+
+	📗 Definitions
+	☞ steal (plural steals)
+	☞ The act of stealing.
+	☞ (slang)  A piece of merchandise available at a very low,
+	  attractive price.
+
+	📘 Examples
+	➡ At this price, this car is a steal.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) steep	enPR: stēp, IPA: /stiːp/
+   🏷  adjective
+
+	📗 Definitions
+	☞ steep (comparative steeper, superlative steepest)
+	☞ Of a near-vertical gradient; of a slope, surface, curve, etc.
+	  that proceeds upward at an angle near vertical.
+	☞ (informal) expensive
+
+	📘 Examples
+	➡ a steep hill or mountain; a steep roof; a steep ascent; a
+	  steep barometric gradient
+	➡ Twenty quid for a shave? That's a bit steep.
+	➡ Her ears and thoughts in steep amaze erected
+   🏷  noun
+
+	📗 Definitions
+	☞ steep (plural steeps)
+	☞ The steep side of a mountain etc.; a slope or acclivity.
+
+	📘 Examples
+	➡ It ended precipitously in a dark and narrow ravine,
+	  formed on the other side by an opposite mountain, the lofty
+	  steep of which was crested by a city gently rising on a
+	  gradual slope
+2) steep	enPR: stēp, IPA: /stiːp/
+   🏷  verb
+
+	📗 Definitions
+	☞ steep (third-person singular simple present steeps, present
+	  participle steeping, simple past and past participle steeped)
+	☞ (transitive, middle) To soak or wet thoroughly.
+	☞ (intransitive, figuratively) To imbue with something; to be
+	  deeply immersed in.
+
+	📘 Examples
+	➡ They steep skins in a tanning solution to create
+	  leather.
+	➡ The tea is steeping.
+	➡ In refreshing dews to steep / The little, trembling
+	  flowers.
+   🏷  noun
+
+	📗 Definitions
+	☞ steep (countable and uncountable, plural steeps)
+	☞ A liquid used in a steeping process
+	☞ A rennet bag.
+
+	📘 Examples
+	➡ Corn steep has many industrial uses.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stem	enPR: stĕm, IPA: /stɛm/
+   🏷  noun
+
+	📗 Definitions
+	☞ stem (plural stems)
+	☞ The stock of a family; a race or generation of progenitors.
+	☞ A branch of a family.
+
+	📘 Examples
+	➡ Where ye may all that are of noble ſtemm / Approach, and
+	  kiſs her ſacred veſtures hemm.
+	➡ While I do pray, learn here thy stem / And true
+	  descent.
+	➡ This is a stem / Of that victorious stock.
+   🏷  verb
+
+	📗 Definitions
+	☞ stem (third-person singular simple present stems, present
+	  participle stemming, simple past and past participle stemmed)
+	☞ To remove the stem from.
+	☞ To be caused or derived; to originate.
+
+	📘 Examples
+	➡ to stem cherries; to stem tobacco leaves
+	➡ The current crisis stems from the short-sighted politics
+	  of the previous government.
+	➡ Nor is the pre-eminent tremendousness of the great Sperm
+	  Whale anywhere more feelingly comprehended, than on board of
+	  those prows which stem him.
+2) stem	enPR: stĕm, IPA: /stɛm/
+   🏷  verb
+
+	📗 Definitions
+	☞ stem (third-person singular simple present stems, present
+	  participle stemming, simple past and past participle stemmed)
+	☞ (transitive) To stop, hinder (for instance, a river or blood).
+	☞ (skiing) To move the feet apart and point the tips of the skis
+	  inward in order to slow down the speed or to facilitate a
+	  turn.
+
+	📘 Examples
+	➡ to stem a tide
+	➡ [They] stem the flood with their erected breasts.
+	➡ Stemm'd the wild torrent of a barbarous age.
+3) stem	enPR: stĕm, IPA: /stɛm/
+   🏷  noun
+
+	📗 Definitions
+	☞ stem (plural stems)
+	☞ Alternative form of steem
+
+4) stem	enPR: stĕm, IPA: /stɛm/
+   🏷  noun
+
+	📗 Definitions
+	☞ stem (plural stems)
+	☞ Alternative form of STEM
+
+	📘 Examples
+	➡ Stem  fields are a particular cause for concern because
+	  within them there are more pronounced stereotypes, extreme
+	  competitiveness and gender inequities regarding the abilities
+	  and competencies of black male and female students.
+5) stem	enPR: stĕm, IPA: /stɛm/
+   🏷  noun
+
+	📗 Definitions
+	☞ stem (plural stems)
+	☞ A lesbian, chiefly African-American, exhibiting both stud and
+	  femme traits.
+
+	📘 Examples
+	➡ Synonym: futch
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) step	(UK, US) IPA: /stɛp/
+   🏷  noun
+
+	📗 Definitions
+	☞ step (plural steps)
+	☞ An advance or movement made from one foot to the other; a
+	  pace.
+	☞ A rest, or one of a set of rests, for the foot in ascending or
+	  descending, as a stair, or a rung of a ladder.
+
+	📘 Examples
+	➡ Turning back, then, toward the basement staircase, she
+	  began to grope her way through blinding darkness, but had
+	  taken only a few uncertain steps when, of a sudden, she
+	  stopped short and for a little stood like a stricken thing,
+	  quite motionless save that she quaked to her very marrow in
+	  the grasp of a great and enervating fear.
+	➡ The breadth of every single step or stair should be never
+	  less than one foot.
+	➡ One morning I had been driven to the precarious refuge
+	  afforded by the steps of the inn, after rejecting offers from
+	  the Celebrity to join him in a variety of amusements. But even
+	  here I was not free from interruption, for he was seated on a
+	  horse-block below me, playing with a fox terrier.
+   🏷  verb
+
+	📗 Definitions
+	☞ step (third-person singular simple present steps, present
+	  participle stepping, simple past stepped or (dated) stept or
+	  (obsolete) stope, past participle stepped or (dated) stept)
+	☞ (intransitive) To move the foot in walking; to advance or
+	  recede by raising and moving one of the feet to another
+	  resting place, or by moving both feet in succession.
+	☞ (intransitive) To walk; to go on foot; especially, to walk a
+	  little distance.
+
+	📘 Examples
+	➡ A “moving platform” scheme […] is more technologically
+	  ambitious than maglev trains even though it relies on
+	  conventional rails. Local trains would use side-by-side rails
+	  to roll alongside intercity trains and allow passengers to
+	  switch trains by stepping through docking bays.
+	➡ Some days later it happened that young Heriotside was
+	  stepping home over the Lang Muir about ten at night, it being
+	  his first jaunt from home since his arm had mended.
+	➡ to step to one of the neighbors
+2) step	(UK, US) IPA: /stɛp/
+   🏷  noun
+
+	📗 Definitions
+	☞ step (plural steps)
+	☞ (slang) A stepsibling.
+
+	📘 Examples
+	➡ So for Richard and Barbara, Jeff and Kari, the impossibly
+	  varied collection of steps and halves that is another legacy
+	  of my father.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sterilize	IPA: /ˈstɛrɪlʌɪz/
+   🏷  verb
+
+	📗 Definitions
+	☞ sterilize (third-person singular simple present sterilizes,
+	  present participle sterilizing, simple past and past
+	  participle sterilized)
+	☞ (transitive) To deprive of the ability to procreate.
+	☞ (transitive) To make unable to produce; to make unprofitable.
+
+	📘 Examples
+	➡ In China, the issue of forced abortions has resurfaced
+	  with the allegations by escaped activist Chen Guangcheng, but
+	  the outgoing premier Wen Jiabao has publicly called for a ban
+	  not only on forced abortion, but also of “fetus gender
+	  identification.” Nevertheless, many women who have abortions
+	  in China are also sterilized against their will.
+	➡ […]  , or he might code it or "sterilize" it, and reward
+	  the foreign station chief in some other way.
+	➡ The same phenomenon is also detectable in the records of
+	  the meetings of NATO committees: the priority of avoiding any
+	  manifestation of internal disagreements led to the production
+	  of 'sterilized' records of discussions which evidently were
+	  significantly more lively than shown in the official
+	  papers.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stick	(Received Pronunciation, General American) enPR: stĭk, IPA: /stɪk/
+   🏷  noun
+
+	📗 Definitions
+	☞ stick (countable and uncountable, plural sticks)
+	☞ An elongated piece of wood or similar material, typically put
+	  to some use, for example as a wand or baton.
+	☞ Any roughly cylindrical (or rectangular) unit of a substance.
+
+	📘 Examples
+	➡ Synonyms: branch, twig,  rice, kindling,  brush
+	➡ The beaver's dam was made out of sticks.
+	➡ Energy has seldom been found where we need it when we
+	  want it. Ancient nomads, wishing to ward off the evening chill
+	  and enjoy a meal around a campfire, had to collect wood and
+	  then spend time and effort coaxing the heat of friction out
+	  from between sticks to kindle a flame.
+   🏷  verb
+
+	📗 Definitions
+	☞ stick (third-person singular simple present sticks, present
+	  participle sticking, simple past and past participle sticked)
+	☞ (carpentry) To cut a piece of wood to be the stick member of a
+	  cope-and-stick joint.
+	☞ (transitive, printing, slang, dated) To compose; to set, or
+	  arrange, in a composing stick.
+
+	📘 Examples
+	➡ to stick type
+2) stick	(Received Pronunciation, General American) enPR: stĭk, IPA: /stɪk/
+   🏷  noun
+
+	📗 Definitions
+	☞ stick (uncountable)
+	☞ (motor racing) The traction of tires on the road surface.
+	☞ (fishing) The amount of fishing line resting on the water
+	  surface before a cast; line stick.
+
+	📘 Examples
+	➡ Problem: A lot of stick and a lack of energy on the
+	  forward stroke.
+   🏷  verb
+
+	📗 Definitions
+	☞ stick (third-person singular simple present sticks, present
+	  participle sticking, simple past and past participle stuck or
+	  (archaic) sticked)
+	☞ (intransitive) To become or remain attached; to adhere.
+	☞ (intransitive) To jam; to stop moving.
+
+	📘 Examples
+	➡ The Citizens in their rage, imagining that euery poſt in
+	  the Churche had bin one of ye Souldyers, ſhot habbe or nabbe
+	  at randon[sic – meaning random] uppe to the Roode lofte, and
+	  to the Chancell, leauing ſome of theyr arrowes ſticking in the
+	  Images.
+	➡ I haue stucke vnto thy Testimonies: O Lord put me not to
+	  shame.
+	➡ Where we once sent love letters in a sealed envelope, or
+	  stuck photographs of our children in a family album, now such
+	  private material is despatched to servers and clouds operated
+	  by people we don't know and will never meet.
+   🏷  adjective
+
+	📗 Definitions
+	☞ stick (comparative sticker, superlative stickest)
+	☞ (informal) Likely to stick; sticking, sticky.
+
+	📘 Examples
+	➡ A non-stick pan. A stick plaster.
+	➡ A sticker type of glue. The stickest kind of gum.
+3) stick	(Received Pronunciation, General American) enPR: stĭk, IPA: /stɪk/
+   🏷  noun
+
+	📗 Definitions
+	☞ stick (plural sticks)
+	☞ (Britain, uncountable) Criticism or ridicule.
+
+	📘 Examples
+	➡ I got some stick personally because of my walking attire.
+	  I arrived to training fully kitted out in sturdy walking
+	  boots.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stimulate	IPA: /ˈstɪmjʊleɪt/
+   🏷  verb
+
+	📗 Definitions
+	☞ stimulate (third-person singular simple present stimulates,
+	  present participle stimulating, simple past and past
+	  participle stimulated)
+	☞ To encourage into action.
+	☞ To arouse an organism to functional activity.
+
+	📘 Examples
+	➡ stimulate the economy
+	➡ To most others Lord Allerton's obvious preference for
+	  Mary would have been an insuperable obstacle; it only served
+	  to stimulate her ladyship.
+	➡ stimulate my mind
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) sting	IPA: /stɪŋ/
+   🏷  noun
+
+	📗 Definitions
+	☞ sting (plural stings)
+	☞ A bump left on the skin after having been stung.
+	☞ A puncture made by an insect or arachnid in an attack, usually
+	  including the injection of venom.
+
+	📘 Examples
+	➡ Look at this nasty hornet sting, it's turned blue!
+	➡ She died from a snake sting
+	➡ Synonym: stinger
+2) sting	IPA: /stɪŋ/
+   🏷  verb
+
+	📗 Definitions
+	☞ sting (third-person singular simple present stings, present
+	  participle stinging, simple past and past participle stung or
+	  (rare, dialectal) stang)
+	☞ (transitive, intransitive) To hurt, usually by introducing
+	  poison or a sharp point, or both.
+	☞ (transitive, of an insect or arachnid) To puncture with the
+	  stinger.
+
+	📘 Examples
+	➡ An adder came out of a little heathbush, and it stung a
+	  man in the foot.
+	➡ My hand stings after knocking on the door so long.
+	➡ Still, it stung when a slightly older acquaintance asked
+	  me why I couldn't do any better.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stink	enPR: stĭngk, IPA: /stɪŋk/
+   🏷  verb
+
+	📗 Definitions
+	☞ stink (third-person singular simple present stinks, present
+	  participle stinking, simple past stank or stunk, past
+	  participle stunk)
+	☞ (intransitive) To have a strong bad smell.
+	☞ (intransitive, informal) To be greatly inferior; to perform
+	  badly.
+
+	📘 Examples
+	➡ That movie stinks. I didn't even stay for the end.
+	➡ Improve your golf swing by taking your mate to the
+	  driving range. If you're good, you can show off and give her
+	  some tips. If you stink, play it for laughs.
+	➡ Something stinks about the politician's excuses.
+   🏷  noun
+
+	📗 Definitions
+	☞ stink (plural stinks)
+	☞ A strong bad smell.
+	☞ (informal) A complaint or objection.
+
+	📘 Examples
+	➡ If you don't make a stink about the problem, nothing will
+	  be done.
+   🏷  adjective
+
+	📗 Definitions
+	☞ stink (comparative more stink, superlative most stink)
+	☞ (slang, New Zealand) Bad; inferior; worthless.
+	☞ (Caribbean, Guyana, Jamaican) Bad-smelling, stinky.
+
+	📘 Examples
+	➡ The concert was stink. / That was a stink concert.
+	➡ Everyone is up in arms but it smells stink because it
+	  smells of racism…
+	➡ Spending hours in a “stink" morgue, being called
+	  “Taliban”, thinking of getting shot in the head by
+	  officers—memories of Venezuela that have left Hamza Mohammed,
+	  imam of the Montrose mosque, still trembling today.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stir	(Received Pronunciation) IPA: /stɜː/
+   🏷  verb
+
+	📗 Definitions
+	☞ stir (third-person singular simple present stirs, present
+	  participle stirring, simple past and past participle stirred)
+	☞ (transitive) To disturb the relative position of the particles
+	  of (a liquid or similar) by passing an object through it.
+	☞ (transitive) To disturb the content of (a container) by
+	  passing an object through it.
+
+	📘 Examples
+	➡ Synonym: agitate
+	➡ She stirred the pudding with a spoon.
+	➡ He stirred his coffee so the sugar wouldn't stay at the
+	  bottom.
+   🏷  noun
+
+	📗 Definitions
+	☞ stir (countable and uncountable, plural stirs)
+	☞ The act or result of stirring (moving around the particles of
+	  a liquid etc.)
+	☞ agitation; tumult; bustle; noise or various movements.
+
+	📘 Examples
+	➡ Can you give the soup a little stir?
+	➡ Why all these words, this clamour, and this stir?
+	➡ Consider, after so much stir about genus and species, how
+	  few words we have yet settled definitions of.
+2) stir	(Received Pronunciation) IPA: /stɜː/
+   🏷  noun
+
+	📗 Definitions
+	☞ stir (countable and uncountable, plural stirs)
+	☞ (slang) Jail; prison.
+
+	📘 Examples
+	➡ He's going to be spending maybe ten years in stir.
+	➡ Sing Sing was a tough joint in those days, one of the
+	  five worst stirs in the United States.
+	➡ The Bat—they called him the Bat. […]. He'd never been in
+	  stir, the bulls had never mugged him, he didn't run with a
+	  mob, he played a lone hand, and fenced his stuff so that even
+	  the fence couldn't swear he knew his face.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stitch	(Received Pronunciation, General American) enPR: stĭch, IPA: /stɪt͡ʃ/
+   🏷  noun
+
+	📗 Definitions
+	☞ stitch (plural stitches)
+	☞ A single pass of a needle in sewing; the loop or turn of the
+	  thread thus made.
+	☞ An arrangement of stitches in sewing, or method of stitching
+	  in some particular way or style.
+
+	📘 Examples
+	➡ cross stitch
+	➡ herringbone stitch
+	➡ I've got a stitch. I'm going to have to stop and
+	  rest.
+2) stitch	(Received Pronunciation, General American) enPR: stĭch, IPA: /stɪt͡ʃ/
+   🏷  verb
+
+	📗 Definitions
+	☞ stitch (third-person singular simple present stitches, present
+	  participle stitching, simple past and past participle
+	  stitched)
+	☞ To form stitches in; especially, to sew in such a manner as to
+	  show on the surface a continuous line of stitches.
+	☞ To sew, or unite or attach by stitches.
+
+	📘 Examples
+	➡ to stitch a shirt bosom.
+	➡ to stitch printed sheets in making a book or a
+	  pamphlet.
+	➡ With such focus from within the footballing community
+	  this week on Remembrance Sunday, there was something
+	  appropriate about Colchester being the venue for last night’s
+	  game. Troops from the garrison town formed a guard of honour
+	  for both sets of players, who emerged for the national anthem
+	  with poppies proudly stitched into their tracksuit
+	  jackets.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stoop	(UK, US) IPA: /stuːp/
+   🏷  noun
+
+	📗 Definitions
+	☞ stoop (plural stoops)
+	☞ (chiefly Northeastern US, chiefly New York, also Canada) The
+	  staircase and landing or porch leading to the entrance of a
+	  residence.
+	☞ (US) The threshold of a doorway, a doorstep.
+
+	📘 Examples
+	➡ Synonyms: porch, verandah
+	➡ Nearly all the houses were built with their gables to the
+	  streets and each had heavy wooden Dutch stoops, with seats, at
+	  its door.
+	➡ ...the entrance being at the side of the house and
+	  reached by a low front stoop with four or five risers...
+2) stoop	(UK, US) IPA: /stuːp/
+   🏷  verb
+
+	📗 Definitions
+	☞ stoop (third-person singular simple present stoops, present
+	  participle stooping, simple past and past participle stooped)
+	☞ To bend the upper part of the body forward and downward to a
+	  half-squatting position; crouch.
+	☞ To lower oneself; to demean or do something below one's
+	  status, standards, or morals.
+
+	📘 Examples
+	➡ He stooped to tie his shoe-laces.
+	➡ Their walk had continued not more than ten minutes when
+	  they crossed a creek by a wooden bridge and came to a row of
+	  mean houses standing flush with the street. At the door of
+	  one, an old black woman had stooped to lift a large basket,
+	  piled high with laundered clothes.
+	➡ Pedersen took a short corner and El-Hadji Diouf was given
+	  time to send in a cross for Mame Diouf to stoop and head home
+	  from close range.
+   🏷  noun
+
+	📗 Definitions
+	☞ stoop (plural stoops)
+	☞ A stooping, bent position of the body.
+	☞ An accelerated descent in flight, as that for an attack.
+
+	📘 Examples
+	➡ The old man walked with a stoop.
+	➡ Theo Walcott's final pass has often drawn criticism but
+	  there could be no complaint in the 11th minute when his
+	  perfect delivery to the far post only required a stoop and a
+	  nod of the head from Young to put England ahead.
+	➡ At length the hawk got the upper hand, and made a rushing
+	  stoop at her quarry
+3) stoop	(UK, US) IPA: /stuːp/
+   🏷  noun
+
+	📗 Definitions
+	☞ stoop (plural stoops)
+	☞ (dialect) A post or pillar, especially a gatepost or a support
+	  in a mine.
+
+4) stoop	(UK, US) IPA: /stuːp/
+   🏷  noun
+
+	📗 Definitions
+	☞ stoop (plural stoops)
+	☞ A vessel for holding liquids; like a flagon but without the
+	  spout.
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stop	(Received Pronunciation) enPR: stŏp, IPA: /stɒp/
+   🏷  verb
+
+	📗 Definitions
+	☞ stop (third-person singular simple present stops, present
+	  participle stopping, simple past and past participle stopped)
+	☞ (intransitive) To cease moving.
+	☞ (intransitive) Not to continue.
+
+	📘 Examples
+	➡ I stopped at the traffic lights.
+	➡ The riots stopped when police moved in.
+	➡ Soon the rain will stop.
+   🏷  noun
+
+	📗 Definitions
+	☞ stop (plural stops)
+	☞ A (usually marked) place where buses, trams or trains halt to
+	  let passengers get on and off, usually smaller than a station.
+	☞ An action of stopping; interruption of travel.
+
+	📘 Examples
+	➡ Related terms: halt, station.
+	➡ They agreed to meet at the bus stop.
+	➡ That stop was not planned.
+2) stop	(Received Pronunciation) enPR: stŏp, IPA: /stɒp/
+   🏷  noun
+
+	📗 Definitions
+	☞ stop (plural stops)
+	☞ (UK dialectal) A small well-bucket; a milk-pail.
+
+3) stop	(Received Pronunciation) enPR: stŏp, IPA: /stɒp/
+   🏷  noun
+
+	📗 Definitions
+	☞ stop (plural stops)
+	☞ (physics) The squark that is the superpartner of a top quark.
+
+	📘 Examples
+	➡ For neutralino masses below approximately 700 GeV, gluino
+	  masses of less than 1.78 TeV and 1.76 TeV are excluded at the
+	  95% CL in simplified models of the pair production of gluinos
+	  decaying via sbottom and stop, respectively.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) store	(General American) enPR: stôr, IPA: /stɔɹ/
+   🏷  noun
+
+	📗 Definitions
+	☞ store (plural stores)
+	☞ A place where items may be accumulated or routinely kept.
+	☞ A supply held in storage.
+
+	📘 Examples
+	➡ This building used to be a store for old tires.
+	➡ But there was an infinite store of mercy in those eyes,
+	  for him too a word of pardon even though he had erred and
+	  sinned and wandered.
+	➡ By late summer a sufficient store of stone had
+	  accumulated, and then the building began […] , under the
+	  superintendence of the pigs.
+   🏷  verb
+
+	📗 Definitions
+	☞ store (third-person singular simple present stores, present
+	  participle storing, simple past and past participle stored)
+	☞ (transitive) To keep (something) while not in use, generally
+	  in a place meant for that purpose.
+	☞ Contain.
+
+	📘 Examples
+	➡ The half-dozen pieces […] were painted white and carved
+	  with festoons of flowers, birds and cupids. To display them
+	  the walls had been tinted a vivid blue which had now faded,
+	  but the carpet, which had evidently been stored and recently
+	  relaid, retained its original turquoise.
+	➡ I'll store these books in the attic.
+	➡ The cabinets store all the food the mice would like.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) strain	IPA: /stɹeɪn/
+   🏷  noun
+
+	📗 Definitions
+	☞ strain (plural strains)
+	☞ (archaic) Race; lineage, pedigree.
+	☞ (biology) A particular variety of a microbe, virus, or other
+	  organism, usually a taxonomically infraspecific one.
+
+	📘 Examples
+	➡ He is of a noble strain.
+	➡ With animals and plants a cross between different
+	  varieties, or between individuals of the same variety but of
+	  another strain, gives vigour and fertility to the
+	  offspring.
+	➡ They say this year's flu virus is a particularly virulent
+	  strain.
+2) strain	IPA: /stɹeɪn/
+   🏷  verb
+
+	📗 Definitions
+	☞ strain (third-person singular simple present strains, present
+	  participle straining, simple past and past participle
+	  strained)
+	☞ (obsolete) To hold tightly, to clasp.
+	☞ To apply a force or forces to by stretching out.
+
+	📘 Examples
+	➡ So hauing said, her twixt her armes twaine / She
+	  straightly straynd, and colled tenderly  […]
+	➡ Evander with a close embrace / Strained his departing
+	  friend.
+	➡ "Farewell!"—the mother strained her child to her heart
+	  again, and again put her from her, to embrace her more
+	  closely.
+   🏷  noun
+
+	📗 Definitions
+	☞ strain (countable and uncountable, plural strains)
+	☞ The act of straining, or the state of being strained.
+	☞ A violent effort; an excessive and hurtful exertion or
+	  tension, as of the muscles.
+
+	📘 Examples
+	➡ Nevertheless, it is clear that the global energy demand
+	  for air-conditioning will grow substantially as nations become
+	  more affluent, […] . This trend will put additional strain not
+	  only on global energy resources but also on the environmental
+	  prospects of a warming planet.
+	➡ If the Menai Bridge, for instance, were loaded at that
+	  rate, the entire strain on the  main chains would be about
+	  2000 tons ; while the chains containing 260 square  inches of
+	  iron would bear, at 9 tons per square inch, 2340 tons, without
+	  stretching  ...
+	➡ Therefore, the goal of this study is to assess the
+	  influence of strain on the  corrosion resistance of passivated
+	  Nitinol and stainless steel implant materials.  Materials and
+	  Methods Nitinol  wire  and 316L  stainless ...
+3) strain	IPA: /stɹeɪn/
+   🏷  verb
+
+	📗 Definitions
+	☞ strain (third-person singular simple present strains, present
+	  participle straining, simple past and past participle
+	  strained)
+	☞ (obsolete) To beget, generate (of light), engender, copulate
+	  (both of animals and humans), lie with, be born, come into the
+	  world.
+
+	📘 Examples
+	➡ A man straineth, liveth, then dieth.
+	➡ Man, look at that cat straining that kitty.
+	➡ Sir, as I have a soul, ſhe is an Angell; / Our King has
+	  all the Indies in his Armes, / And more, and richer, when he
+	  ſtraines that Lady, / I cannot blame his Conſcience.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stray	enPR: strā, IPA: /stɹeɪ/
+   🏷  noun
+
+	📗 Definitions
+	☞ stray (plural strays)
+	☞ Any domestic animal that has no enclosure nor proper place and
+	  company, but that instead wanders at large or is lost; an
+	  estray.
+	☞ One who is lost, literally or figuratively.
+
+	📘 Examples
+	➡ This invention relates broadly to radio communication,
+	  but more particularly to a radio receiving system used for the
+	  reception of high frequency current signals wherever they are
+	  subject to interference from "static" or strays of an untuned
+	  or aperiodic character.
+	➡ Because of their shortness, such signals are usually easy
+	  to distinguish from the bomb returns but, when such a stray is
+	  recorded just before the bomb return, too close to be
+	  distinguished by ear  […]
+	➡ Electromagnetic interference EMI, radio interference RI,
+	  television interference TVI, and radio frequency interference
+	  RFI, can all be described as a confusion to received radio
+	  signals due to strays and undesirable signals.
+2) stray	enPR: strā, IPA: /stɹeɪ/
+   🏷  verb
+
+	📗 Definitions
+	☞ stray (third-person singular simple present strays, present
+	  participle straying, simple past and past participle strayed)
+	☞ (intransitive) To wander, as from a direct course; to deviate,
+	  or go out of the way.
+	☞ (intransitive) To wander from company or outside proper
+	  limits; to rove or roam at large; to go astray.
+
+	📘 Examples
+	➡ Thames among the wanton valleys strays.
+	➡ It was a derby that left Manchester United a long way
+	  back in Manchester City’s wing-mirrors and, in the worst
+	  moments, straying dangerously close to being their own worst
+	  enemy.
+	➡ Hath not else his eye / Strayed his affection in unlawful
+	  love,
+3) stray	enPR: strā, IPA: /stɹeɪ/
+   🏷  adjective
+
+	📗 Definitions
+	☞ stray (not comparable)
+	☞ Having gone astray; strayed; wandering
+	☞ In the wrong place; misplaced.
+
+	📘 Examples
+	➡ The alley is full of stray cats rummaging through the
+	  garbage.
+	➡ The organisation fills many gaps left by the state,
+	  operating a dizzying array of services, including homes for
+	  victims of domestic violence, food banks and a shelter for
+	  stray animals.
+	➡ a stray comma
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stress	IPA: /stɹɛs/
+   🏷  noun
+
+	📗 Definitions
+	☞ stress (countable and uncountable, plural stresses)
+	☞ (biology) A physical, chemical, infective agent aggressing an
+	  organism.
+	☞ (biology) Aggression toward an organism resulting in a
+	  response in an attempt to restore previous conditions.
+
+	📘 Examples
+	➡ Go easy on him, he's been under a lot of stress
+	  lately.
+	➡ Synonym: accent
+	➡ Some people put the stress on the first syllable of
+	  “controversy”; others put it on the second.
+   🏷  verb
+
+	📗 Definitions
+	☞ stress (third-person singular simple present stresses, present
+	  participle stressing, simple past and past participle
+	  stressed)
+	☞ (transitive) To apply force to (a body or structure) causing
+	  strain.
+	☞ (transitive) To apply emotional pressure to (a person or
+	  animal).
+
+	📘 Examples
+	➡ “Emphasis” is stressed on the first syllable, but
+	  “emphatic” is stressed on the second.
+	➡ I must stress that this information is given in strict
+	  confidence.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stretch	IPA: /stɹɛtʃ/
+   🏷  verb
+
+	📗 Definitions
+	☞ stretch (third-person singular simple present stretches,
+	  present participle stretching, simple past and past participle
+	  stretched or (obsolete) straught or (obsolete) straight)
+	☞ (transitive) To lengthen by pulling.
+	☞ (intransitive) To lengthen when pulled.
+
+	📘 Examples
+	➡ I stretched the rubber band until it almost broke.
+	➡ The rubber band stretched almost to the breaking
+	  point.
+	➡ The inner membrane  […]  because it would stretch and
+	  yield, remained unbroken.
+   🏷  noun
+
+	📗 Definitions
+	☞ stretch (plural stretches)
+	☞ An act of stretching.
+	☞ The ability to lengthen when pulled.
+
+	📘 Examples
+	➡ I was right in the middle of a stretch when the phone
+	  rang.
+	➡ That rubber band has quite a bit of stretch.
+	➡ It's a bit of a stretch to call Boris Karloff a
+	  comedian.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) strew	(UK) IPA: /stɹuː/
+   🏷  verb
+
+	📗 Definitions
+	☞ strew (third-person singular simple present strews, present
+	  participle strewing, simple past strewed, past participle
+	  strewn or strewed)
+	☞ (dated, except strewn) To distribute objects or pieces of
+	  something over an area, especially in a random manner.
+	☞ (archaic) To cover, or lie upon, by having been scattered.
+
+	📘 Examples
+	➡ to strew sand over a floor
+	➡ The files had been strewn all over the floor.
+	➡ Sweet flower, with flowers thy bridal bed I strew.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) stride	enPR: strīd, IPA: /stɹaɪd/
+   🏷  verb
+
+	📗 Definitions
+	☞ stride (third-person singular simple present strides, present
+	  participle striding, simple past strode, past participle
+	  stridden or strode or strid)
+	☞ (intransitive) To walk with long steps.
+	☞ To stand with the legs wide apart; to straddle.
+
+	📘 Examples
+	➡ Mars in the middle of the shining shield / Is grav'd, and
+	  strides along the liquid field.
+	➡ a debtor that not dares to stride a limit
+	➡ For SAC66 is better known as Batty Moss  Viaduct - the
+	  magnificent, Grade 2-listed, 24-arch structure that strides
+	  over the pockmarked ground between Ribblehead station and Blea
+	  Moor signal box.
+2) stride	enPR: strīd, IPA: /stɹaɪd/
+   🏷  noun
+
+	📗 Definitions
+	☞ stride (countable and uncountable, plural strides)
+	☞ (countable) A long step in walking.
+	☞ (countable) The distance covered by a long step.
+
+	📘 Examples
+	➡ Still, a dozen men with rifles, and cartridges to match,
+	  stayed behind when they filed through a white aldea lying
+	  silent amid the cane, and the Sin Verguenza swung into
+	  slightly quicker stride.
+	➡ An utterly emphatic 5-0 victory was ultimately capped by
+	  two wonder strikes in the last two minutes from Aston Villa
+	  midfielder Gary Gardner. Before that, England had utterly
+	  dominated to take another purposeful stride towards the 2013
+	  European Championship in Israel. They have already established
+	  a five-point buffer at the top of Group Eight.
+	➡ This stride value is generally equal to the pixel width
+	  of the bitmap times the number of bytes per pixel, but for
+	  performance reasons it might be rounded  […]
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) strike	(Received Pronunciation, General American) IPA: /stɹaɪk/
+   🏷  verb
+
+	📗 Definitions
+	☞ strike (third-person singular simple present strikes, present
+	  participle striking, simple past struck or (obsolete) strake
+	  or (obsolete) strook, past participle struck or (see usage
+	  notes) stricken or (archaic) strucken)
+	☞ (transitive, sometimes with out or through) To delete or cross
+	  out; to scratch or eliminate.
+	☞ (physical) To have a sharp or sudden effect.
+
+	📘 Examples
+	➡ Please strike the last sentence.
+	➡ Strike the door sharply with your foot and see if it
+	  comes loose.  A bullet struck him.  The ship struck a
+	  reef.
+	➡ […] he at Philippi kept / His ſword e'ne like a dancer,
+	  while I ſtrooke / The leane and wrinkled Caſſius, […]
+   🏷  noun
+
+	📗 Definitions
+	☞ strike (plural strikes)
+	☞ (baseball) A status resulting from a batter swinging and
+	  missing a pitch, or not swinging at a pitch when the ball goes
+	  in the strike zone, or hitting a foul ball that is not caught.
+	☞ (bowling) The act of knocking down all ten pins in on the
+	  first roll of a frame.
+
+	📘 Examples
+	➡ It was then I knew I had made my third mistake.  Yes,
+	  three strikes right across the plate, and as I hollered
+	  "Honey, please wait" she was gone.
+	➡ Synonym: walkout
+	➡ Antonyms: industrial peace, lockout
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) string	IPA: /stɹɪŋ/
+   🏷  noun
+
+	📗 Definitions
+	☞ string (countable and uncountable, plural strings)
+	☞ (countable) A long, thin and flexible structure made from
+	  threads twisted together.
+	☞ (uncountable) Such a structure considered as a substance.
+
+	📘 Examples
+	➡ Synonyms: cord, rope, line; see also Thesaurus:string
+	➡ Round Ormond's knee thou tiest the mystic string.
+	➡ Synonyms: cord, rope, twine
+   🏷  verb
+
+	📗 Definitions
+	☞ string (third-person singular simple present strings, present
+	  participle stringing, simple past strung or (obsolete or
+	  nonstandard) strang, past participle strung)
+	☞ (transitive) To put (items) on a string.
+	☞ (transitive) To put strings on (something).
+
+	📘 Examples
+	➡ You can string these beads on to this cord to make a
+	  colorful necklace.
+	➡ It is difficult to string a tennis racket properly.
+	➡ To be honest, you'd be better off trying to string a
+	  Skylark as a Richard's Pipit rather than as a Pectoral
+	  Sandpiper.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) strive	IPA: /ˈstɹaɪv/
+   🏷  verb
+
+	📗 Definitions
+	☞ strive (third-person singular simple present strives, present
+	  participle striving, simple past strove or strived, past
+	  participle striven or strived or (nonstandard, colloquial)
+	  strove)
+	☞ To try to achieve a result; to make strenuous effort; to try
+	  earnestly and persistently.
+	☞ To struggle in opposition; to be in contention or dispute; to
+	  contend; to contest.
+
+	📘 Examples
+	➡ He strove to excel.
+	➡ We strive for the truth.
+	➡ Moreover, on several occasions, terminus stations such as
+	  Nine Elms, Bishop's Bridge, Maiden Lane and Bishopgate were
+	  built rather further away from the centre of London, only to
+	  be dispensed with as the various railway companies strove to
+	  get as near as possible to the lucrative markets of the City
+	  and the West End.
+2) strive	IPA: /ˈstɹaɪv/
+   🏷  noun
+
+	📗 Definitions
+	☞ strive (plural strives)
+	☞ (obsolete) Alternative form of strife
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) study	IPA: /ˈstʌdi/
+   🏷  verb
+
+	📗 Definitions
+	☞ study (third-person singular simple present studies, present
+	  participle studying, simple past and past participle studied)
+	☞ (usually academic) To review materials already learned in
+	  order to make sure one does not forget them, usually in
+	  preparation for an examination.
+	☞ (academic) To take a course or courses on a subject.
+
+	📘 Examples
+	➡ Students are expected to start studying for final exams
+	  in March.
+	➡ I need to study my biology notes.
+	➡ I study medicine at the university.
+2) study	IPA: /ˈstʌdi/
+   🏷  noun
+
+	📗 Definitions
+	☞ study (countable and uncountable, plural studies)
+	☞ Mental effort to acquire knowledge or learning.
+	☞ The act of studying or examining; examination.
+
+	📘 Examples
+	➡ The study of languages is fascinating.
+	➡ During the whole time of his abode in the university he
+	  generally spent thirteen hours of the day in study; by which
+	  assiduity besides an exact dispatch of the whole course of
+	  philosophy, he read over in a manner all classic authors that
+	  are extant […]
+	➡ Study gives strength to the mind; conversation, grace:
+	  the first apt to give stiffness, the other suppleness: one
+	  gives substance and form to the statue, the other polishes
+	  it.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) submit	enPR: səbmĭtʹ, IPA: /səbˈmɪt/
+   🏷  verb
+
+	📗 Definitions
+	☞ submit (third-person singular simple present submits, present
+	  participle submitting, simple past and past participle
+	  submitted)
+	☞ (intransitive) To yield or give way to another.
+	☞ (transitive) To yield (something) to another, as when
+	  defeated.
+
+	📘 Examples
+	➡ They will not submit to the destruction of their
+	  rights.
+	➡ I submit these plans for your approval.
+	➡ We submit that a wooden spoon of our day would not be
+	  justified in calling Galileo and Napier blockheads because
+	  they never heard of the differential calculus.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) subscribe	(US) IPA: /səbˈskɹaɪb/
+   🏷  verb
+
+	📗 Definitions
+	☞ subscribe (third-person singular simple present subscribes,
+	  present participle subscribing, simple past and past
+	  participle subscribed)
+	☞ (ergative) To sign up to have copies of a publication, such as
+	  a newspaper or a magazine, delivered for a period of time.
+	☞ To pay for the provision of a service, such as Internet access
+	  or a cell phone plan.
+
+	📘 Examples
+	➡ Would you like to subscribe or subscribe a friend to our
+	  new magazine, Lexicography Illustrated?
+	➡ I don’t subscribe to that theory.
+	➡ […]  under no circumstances could I ever again be
+	  nominated for any public office, as no corporation would
+	  subscribe to a campaign fund if I was on the ticket, and that
+	  they would subscribe most heavily to beat me;
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) subtract	(General American) IPA: /səbˈtɹækt/
+   🏷  verb
+
+	📗 Definitions
+	☞ subtract (third-person singular simple present subtracts,
+	  present participle subtracting, simple past and past
+	  participle subtracted)
+	☞ (transitive, arithmetic) To remove or reduce; especially to
+	  reduce a quantity or number
+
+	📘 Examples
+	➡ If you subtract the $100 for gas from the total cost, it
+	  was a fairly inexpensive trip.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) succeed	IPA: /səkˈsiːd/
+   🏷  verb
+
+	📗 Definitions
+	☞ succeed (third-person singular simple present succeeds,
+	  present participle succeeding, simple past and past participle
+	  succeeded)
+	☞ (transitive) To follow something in sequence or time.
+	☞ (transitive) To replace or supplant someone in order vis-à-vis
+	  an office, position,  or title.
+
+	📘 Examples
+	➡ Autumn succeeds summer.
+	➡ The king's eldest son succeeds his father on the
+	  throne.
+	➡ Synonym: take the place of
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) suck	(US, UK) enPR: sŭk, IPA: /sʌk/
+   🏷  noun
+
+	📗 Definitions
+	☞ suck (countable and uncountable, plural sucks)
+	☞ An instance of drawing something into one's mouth by inhaling.
+	☞ (uncountable) Milk drawn from the breast.
+
+	📘 Examples
+	➡ Bammer agreed “Probably a good idea,” he agreed with a
+	  quick suck on his straw, “won't stop you from picking up any
+	  of these chicks, though.”
+	➡ The infant took suck in an instant, pulling strongly.
+	➡ “Why're you bothering to take her anywhere? I can't stand
+	  traveling with her. You're such a suck,” her sister said.
+	  Waved her smoke. “No fucking way I'm going.”
+   🏷  verb
+
+	📗 Definitions
+	☞ suck (third-person singular simple present sucks, present
+	  participle sucking, simple past and past participle sucked)
+	☞ (transitive) To use the mouth and lips to pull in (a liquid,
+	  especially milk from the breast). [from 9th c.]
+	☞ (intransitive) To perform such an action; to feed from a
+	  breast or teat. [from 11th c.]
+
+	📘 Examples
+	➡ That she may sucke their life, and drinke their blood, /
+	  With which she from her childhood had bene fed.
+	➡ And ſince we all haue ſuckt on[e] wholſome aire,And with
+	  the ſame proportion of Elements,Reſolue, I hope we are
+	  reſembled,Uowing our loues to equall death and life,  […]
+	➡ Schumacher recalls Bucher had also written 'Communism
+	  sucks' on the underside of his table
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) suffer	(UK) IPA: /ˈsʌfə/
+   🏷  verb
+
+	📗 Definitions
+	☞ suffer (third-person singular simple present suffers, present
+	  participle suffering, simple past and past participle
+	  suffered)
+	☞ (intransitive) To undergo hardship.
+	☞ (intransitive) To feel pain.
+
+	📘 Examples
+	➡ Synonym: bear
+	➡ Is anyone here afraid of suffering hardship?
+	➡ Synonyms: agonize, anguish, thole; see also
+	  Thesaurus:suffer
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) suggest	(Received Pronunciation) IPA: /səˈdʒɛst/
+   🏷  verb
+
+	📗 Definitions
+	☞ suggest (third-person singular simple present suggests,
+	  present participle suggesting, simple past and past participle
+	  suggested)
+	☞ (transitive) To imply but stop short of explicitly stating
+	  (something).
+	☞ (transitive) To cause one to suppose (something); to bring to
+	  one's mind the idea (of something).
+
+	📘 Examples
+	➡ Are you suggesting that I killed my wife?
+	➡ Some ideas  […]  are suggested to the mind by all the
+	  ways of sensation and reflection.
+	➡ In the abstract, Stuhlbarg’s twinkly-eyed sidekick
+	  suggests Joe Pesci in Lethal Weapon 2 by way of late-period
+	  Robin Williams with an alien twist, but Stuhlbarg makes a
+	  character that easily could have come across as precious into
+	  a surprisingly palatable, even charming man.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) summon	IPA: /ˈsʌmən/
+   🏷  verb
+
+	📗 Definitions
+	☞ summon (third-person singular simple present summons, present
+	  participle summoning, simple past and past participle
+	  summoned)
+	☞ (transitive) To call people together; to convene.
+	☞ (transitive) To ask someone to come; to send for.
+
+	📘 Examples
+	➡ Silence is primary, summoning presence to itself; so it's
+	  a connection to the realm of origin.
+	➡ You can summon groceries, alcohol and medicines to your
+	  home: chips and vodka on New Year’s Eve, say, and then aspirin
+	  on New Year’s Day.
+	➡ Synonyms: summon up, muster, muster up
+   🏷  noun
+
+	📗 Definitions
+	☞ summon (plural summons)
+	☞ (video games) A creature magically summoned to do the
+	  summoner's bidding.
+	☞ call, command, order (Can we add an example for this sense?)
+
+	📘 Examples
+	➡ The deceased was 58 years of age, was the picture of
+	  health even five or six hours prior to his death, when
+	  suddenly the grim messenger came with a summon from a Higher
+	  Tribunal, calling him to duties above.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) supply	enPR: səplīʹ, IPA: /səˈplaɪ/
+   🏷  verb
+
+	📗 Definitions
+	☞ supply (third-person singular simple present supplies, present
+	  participle supplying, simple past and past participle
+	  supplied)
+	☞ (transitive) To provide (something), to make (something)
+	  available for use.
+	☞ (transitive) To furnish or equip with.
+
+	📘 Examples
+	➡ to supply money for the war
+	➡ to supply a furnace with fuel; to supply soldiers with
+	  ammunition
+	➡ Rivers are supplied by smaller streams.
+   🏷  noun
+
+	📗 Definitions
+	☞ supply (countable and uncountable, plural supplies)
+	☞ (uncountable) The act of supplying.
+	☞ (countable) An amount of something supplied.
+
+	📘 Examples
+	➡ supply and demand
+	➡ A supply of good drinking water is essential.
+	➡ She said, “China has always had a freshwater supply
+	  problem with 20 percent of the world’s population but only 7
+	  percent of its freshwater.
+2) supply	enPR: səplīʹ, IPA: /səˈplaɪ/
+   🏷  adverb
+
+	📗 Definitions
+	☞ supply (comparative more supply, superlative most supply)
+	☞ Supplely: in a supple manner, with suppleness.
+
+	📘 Examples
+	➡ His voice was playful and full; his back was bent
+	  supply.
+	➡ […]  the rain struck on her head as she bent supply to
+	  the movements of the pony, while it scrambled up the bank to
+	  the sheltering trees. For a couple of miles the path ran
+	  through woods alive with the varied voices of the rain,
+	  […]
+	➡ She swayed slightly in the gusts, bent supply to them and
+	  seemed at one with the force which Straup found so
+	  hostile.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) support	(Received Pronunciation) IPA: /səˈpɔːt/, [səˈpʰɔːt]
+   🏷  verb
+
+	📗 Definitions
+	☞ support (third-person singular simple present supports,
+	  present participle supporting, simple past and past participle
+	  supported)
+	☞ (transitive) To keep from falling.
+	☞ (transitive) To answer questions and resolve problems
+	  regarding something sold.
+
+	📘 Examples
+	➡ Don’t move that beam! It supports the whole platform.
+	➡ Synonyms: underprop, uphold, stut
+	➡ Sure they sell the product, but do they support it?
+2) support	(Received Pronunciation) IPA: /səˈpɔːt/, [səˈpʰɔːt]
+   🏷  noun
+
+	📗 Definitions
+	☞ support (countable and uncountable, plural supports)
+	☞ (sometimes attributive) Something which supports.
+	☞ Financial or other help.
+
+	📘 Examples
+	➡ Don't move that beam! It's a support for the whole
+	  platform.
+	➡ The government provides support to the arts in several
+	  ways.
+	➡ Kim was educated at the newly founded university in
+	  Pyongyang, named after his father, graduating in 1964. The
+	  1960s and early 1970s were the golden years for the DPRK. It
+	  undertook rapid industrialisation, economically outstripped
+	  its southern competitor, and enjoyed the support of both the
+	  People's Republic of China, and the Soviet Union.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) suppose	(UK) IPA: /səˈpəʊz/, [səˈpʰəʊz]
+   🏷  verb
+
+	📗 Definitions
+	☞ suppose (third-person singular simple present supposes,
+	  present participle supposing, simple past and past participle
+	  supposed)
+	☞ (transitive) To take for granted; to conclude, with less than
+	  absolute supporting data; to believe.
+	☞ (transitive) To theorize or hypothesize.
+
+	📘 Examples
+	➡ I suppose we all agree that this is the best
+	  solution.
+	➡ ‘No,’ said Luke, grinning at her. ‘You're not dull
+	  enough! […] What about the kid's clothes? I don't suppose they
+	  were anything to write home about, but didn't you keep
+	  anything? A bootee or a bit of embroidery or anything at
+	  all?’
+	➡ Suppose that A implies B and B implies C. Then A implies
+	  C.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) surge	(US) enPR: sûrj IPA: /sɝdʒ/
+   🏷  noun
+
+	📗 Definitions
+	☞ surge (plural surges)
+	☞ A sudden transient rush, flood or increase.
+	☞ The maximum amplitude of a vehicle's forward/backward
+	  oscillation.
+
+	📘 Examples
+	➡ As President Obama turns his attention once again to
+	  filling out a cabinet and writing an Inaugural Address, this
+	  much is clear: he should not expect to bask in a surge of
+	  national unity, or to witness a crowd of millions overrun the
+	  Mall just to say they were there.
+	➡ He felt a surge of excitement.
+	➡ A power surge at that generator created a blackout across
+	  the whole district.
+   🏷  verb
+
+	📗 Definitions
+	☞ surge (third-person singular simple present surges, present
+	  participle surging, simple past and past participle surged)
+	☞ (intransitive) To rush, flood, or increase suddenly.
+	☞ To accelerate forwards, particularly suddenly.
+
+	📘 Examples
+	➡ Toaster sales surged last year.
+	➡ Carried somehow, somewhither, for some reason, on these
+	  surging floods, were these travelers, of errand not wholly
+	  obvious to their fellows, yet of such sort as to call into
+	  query alike the nature of their errand and their own
+	  relations.
+	➡ Athletes' use of herbal supplements has skyrocketed in
+	  the past two decades. At the top of the list of popular herbs
+	  are echinacea and ginseng, whereas garlic, St. John's wort,
+	  soybean, ephedra and others are also surging in popularity or
+	  have been historically prevalent.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) surmise	(Received Pronunciation) IPA: /sɜːˈmaɪz/
+   🏷  noun
+
+	📗 Definitions
+	☞ surmise (countable and uncountable, plural surmises)
+	☞ Thought, imagination, or conjecture, which may be based upon
+	  feeble or scanty evidence; suspicion; guess.
+	☞ Reflection; thought; posit.
+
+	📘 Examples
+	➡ surmises of jealousy or of envy
+	➡ But ſurely no Man whatſoever ought in Justice or good
+	  Manners to be charged with Principles he actually diſowns,
+	  unleſs his Practices do openly and without the leaſt Room for
+	  Doubt, contradict his Profeſſion: Not upon ſmall Surmiſes, or
+	  becauſe he has the Miſfortune to have Ill Men ſometimes agree
+	  with him in a few general Sentiments.
+	➡ The meeting had been devoid of incident. No word had been
+	  said to give me anything to think about, and any surmises I
+	  might make were unwarranted. I was intrigued.
+   🏷  verb
+
+	📗 Definitions
+	☞ surmise (third-person singular simple present surmises,
+	  present participle surmising, simple past and past participle
+	  surmised)
+	☞ To imagine or suspect; to conjecture; to posit with
+	  contestable premises.
+
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) surpass	(US) IPA: /sɚˈpæs/
+   🏷  verb
+
+	📗 Definitions
+	☞ surpass (third-person singular simple present surpasses,
+	  present participle surpassing, simple past and past participle
+	  surpassed)
+	☞ (transitive) To go beyond or exceed (something) in an
+	  adjudicative or literal sense.
+
+	📘 Examples
+	➡ The former problem student surpassed his instructor's
+	  expectations and scored top marks on his examination.
+	➡ The heavy rains threatened to surpass the capabilities of
+	  the levee, endangering the town on the other side.
+	➡ “Two or three months more went by; the public were
+	  eagerly awaiting the arrival of this semi-exotic claimant to
+	  an English peerage, and sensations, surpassing those of the
+	  Tichbourne case, were looked forward to with palpitating
+	  interest.  […] ”
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
+1) surround	IPA: /səˈɹaʊnd/
+   🏷  verb
+
+	📗 Definitions
+	☞ surround (third-person singular simple present surrounds,
+	  present participle surrounding, simple past and past
+	  participle surrounded)
+	☞ (transitive) To encircle something or simultaneously extend in
+	  all directions.
+	☞ (transitive) To enclose or confine something on all sides so
+	  as to prevent escape.
+
+	📘 Examples
+	➡ The hovel stood in the centre of what had once been a
+	  vegetable garden, but was now a patch of rank weeds.
+	  Surrounding this, almost like a zareba, was an irregular ring
+	  of gorse and brambles, an unclaimed vestige of the original
+	  common.
+	➡ Sepia Delft tiles surrounded the fireplace, their crudely
+	  drawn Biblical scenes in faded cyclamen blending with the
+	  pinkish pine, while above them, instead of a mantelshelf,
+	  there was an archway high enough to form a balcony with
+	  slender balusters and a tapestry-hung wall behind.
+	➡ and this way they get rid of those grand and stubborn
+	  opinions that surround them.
+   🏷  noun
+
+	📗 Definitions
+	☞ surround (plural surrounds)
+	☞ (Britain) Anything, such as a fence or border, that surrounds
+	  something.
+
+	📘 Examples
+	➡ He drifted through the room, avoiding the furniture by
+	  instinct, closed the door that led to the passage, and only
+	  then flicked on his flashlight.
+	➡ It swept around the room, picking out a desk, a
+	  telephone, a wall of bookshelves, and a deep armchair, and
+	  finally settled on a handsome fireplace with a large surround
+	  of red brick.
+
+
+🔅 This application is powered by Wiktionary's API 🔅
+
