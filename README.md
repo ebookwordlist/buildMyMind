@@ -1,15 +1,32 @@
-# buildMyMind
-build my english word
+# BuildMyMind
+Build my english word
 
-### 
-python3 -m venv venv/
-source venv/bin/activate
-pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com
+“未经审视的生活是不值得过的“ --------苏格拉底
+
+
+#### 为什么要写这个
+尝试一种新的英语学习思路，同时用自己的思路重新解构自己的语言，就好比编程中的编译器开发。
+
+#### 总体思路
+- 关注动词，围绕动词整理经典文本
+- 经典文本以中文经典的英译本为主
+- 借助佛学心理学哲学中的思路，对动词的进行分析
+- 学习数学中的一些公理系统的构建思路。
 
 #### 动词和运算
 数学家往往避免卷入“xx是什么”这种哲学上的讨论。“直线是什么”,"0是什么"，“虚数的本质是什么” 这样的问题。讨论来讨论去也没个结果，不如先放一放，看看具有什么样的性质。比如 i平方 = -1。 先关注运算而不是本质，有可能让我们走的更远。而动词就是语言中的运算。
 
-### 汉语中的动词分类 
+#### 诗歌中的动词
+诗歌中动词的用法生动，有画面感，我们可以在头脑中不断播放这个画面，提高记忆提取的频次。同时诗歌是有情绪的，更好记忆。
+
+我们对中文的经典文本比较熟悉，容易把握，而英文经典文本则没那么熟悉。那中文经典的英文译版就是我们理想的素材。
+
+#### 三种不同的状态
+students(学徒)--->researcher(研究者)--->player(玩家)
+学徒我们已经当了很多年了，要试着通过research变成一名player
+             
+### 分析框架
+##### 汉语中的动词分类 
 动词是表示动作、行为、心理活动或存在变化等的词。例如：
 - 表示动作行为：说、看、走、听
 - 表示存在变化消失：在、有、等于、发生、演变、发展、生长、死亡、存在、消灭
@@ -19,13 +36,30 @@ pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple --trust
 - 表示趋向（趋向动词）：上、下、进、出、回、开、过、起、来、上来、下来、进来、出来、回来
 - 表示发展动词：如生长、枯萎、发芽、结果、产卵；
 
-### 诗歌和格言中的动词
-诗歌中动词的用法可以我们很大的启发。
+##### 佛学
+六根： 眼、耳、鼻、舌、身、意
 
-### 有用的资源
+##### 心理学 
+本能 --- 爬行脑
+情绪 --- 哺乳脑
+理智 --- 人脑
+
+
+
+
+
+## 有用的资源
 https://dictionary.cambridge.org/us/
 
 https://www.etymonline.com/
 
 https://www.poemhunter.com/
 
+
+### 关于python 代码
+
+```
+python3 -m venv venv/
+source venv/bin/activate
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com
+```
